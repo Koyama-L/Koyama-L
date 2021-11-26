@@ -24,13 +24,23 @@
 	#Landing_page {
 		position: absolute;
 		width: 1920px;
-		height: 4253px;
+		height: 5906px;
 		background-color: rgba(255,255,255,1);
 		overflow: hidden;
 		--web-view-name: Landing page;
 		--web-view-id: Landing_page;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
 	}
 	#My_Pic {
 		position: absolute;
@@ -52,37 +62,7 @@
 		font-style: normal;
 		font-weight: bold;
 		font-size: 35px;
-		color: rgba(255,255,255,1);
-		letter-spacing: 0.5px;
-	}
-	#Header_Works {
-		left: 1319px;
-		top: 72px;
-		position: absolute;
-		overflow: visible;
-		width: 68px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: FranklinGothic URW;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
-		letter-spacing: 0.5px;
-	}
-	#Header_Portfolio {
-		left: 1435px;
-		top: 72px;
-		position: absolute;
-		overflow: visible;
-		width: 95px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: FranklinGothic URW;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
+		color: rgba(0,0,0,1);
 		letter-spacing: 0.5px;
 	}
 	#Quote_KNOWING {
@@ -90,7 +70,7 @@
 		top: 485px;
 		position: absolute;
 		overflow: visible;
-		width: 550px;
+		width: 599px;
 		white-space: nowrap;
 		text-align: left;
 		font-family: Garamond Premier Pro;
@@ -100,91 +80,53 @@
 		color: rgba(255,255,255,1);
 		letter-spacing: 0.5px;
 	}
-	#Header_About {
-		left: 1578px;
-		top: 72px;
-		position: absolute;
-		overflow: visible;
-		width: 65px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: FranklinGothic URW;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
-		letter-spacing: 0.5px;
-	}
-	#Header_Rsum {
-		left: 1691px;
-		top: 72px;
-		position: absolute;
-		overflow: visible;
-		width: 90px;
-		white-space: nowrap;
-		text-align: left;
-		font-family: FranklinGothic URW;
-		font-style: normal;
-		font-weight: normal;
-		font-size: 24px;
-		color: rgba(255,255,255,1);
-		letter-spacing: 0.5px;
-	}
 	#Pro4 {
 		position: absolute;
 		width: 674px;
 		height: 674px;
-		left: 1016px;
-		top: 2122px;
-		overflow: visible;
-	}
-	#Pro2 {
-		position: absolute;
-		width: 674px;
-		height: 674px;
-		left: 1016px;
-		top: 1327px;
+		left: 278px;
+		top: 3388px;
 		overflow: visible;
 	}
 	#Pro5 {
 		position: absolute;
 		width: 674px;
 		height: 674px;
-		left: 231px;
-		top: 2917px;
+		left: 278px;
+		top: 2701px;
 		overflow: visible;
 	}
 	#Pro3 {
 		position: absolute;
 		width: 674px;
 		height: 674px;
-		left: 231px;
-		top: 2122px;
+		left: 968px;
+		top: 2012px;
 		overflow: visible;
 	}
 	#Pro1 {
 		position: absolute;
 		width: 674px;
 		height: 674px;
-		left: 231px;
-		top: 1327px;
+		left: 278px;
+		top: 2012px;
 		overflow: visible;
 	}
 	#Pro6 {
 		position: absolute;
 		width: 674px;
 		height: 674px;
-		left: 1016px;
-		top: 2917px;
+		left: 968px;
+		top: 3388px;
 		overflow: visible;
 	}
 	#n_2021_by_MengYang_Lee__All_Ri {
 		left: 140px;
-		top: 4021px;
+		top: 5726px;
 		position: absolute;
 		overflow: visible;
 		width: 1641px;
-		height: 232px;
+		height: 180px;
 		text-align: center;
 		font-family: FranklinGothic URW;
 		font-style: normal;
@@ -196,8 +138,8 @@
 		position: absolute;
 		width: 675px;
 		height: 675px;
-		left: 230px;
-		top: 1326px;
+		left: 277px;
+		top: 2012px;
 		overflow: visible;
 	}
 	#Rectangle_2 {
@@ -223,7 +165,7 @@
 		font-style: normal;
 		font-weight: bold;
 		font-size: 24px;
-		color: rgba(0,0,0,0);
+		color: rgba(255,255,255,0);
 		letter-spacing: 0.5px;
 	}
 	#UIUX_Design {
@@ -238,21 +180,374 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 20px;
-		color: rgba(0,0,0,0);
+		color: rgba(255,255,255,0);
 		letter-spacing: 0.5px;
+	}
+	#Arrow_Hover {
+		position: absolute;
+		width: 61px;
+		height: 63px;
+		left: 1443px;
+		top: 801px;
+		overflow: visible;
+	}
+	#Text {
+		transform: translate(0px, 0px) matrix(1,0,0,1,-1,1) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.5px;
+	}
+	#Header_Hover {
+		position: absolute;
+		width: 91px;
+		height: 29px;
+		left: 1437px;
+		top: 71px;
+		overflow: visible;
+	}
+	#Header_Works {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+	#Header_Hover_ {
+		position: absolute;
+		width: 62px;
+		height: 29px;
+		left: 1582px;
+		top: 71px;
+		overflow: visible;
+	}
+	#Header_Works_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+	#Header_Hover_ba {
+		position: absolute;
+		width: 87px;
+		height: 29px;
+		left: 1693px;
+		top: 70px;
+		overflow: visible;
+	}
+	#Header_Works_ba {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+	#Hover_1_ba {
+		position: absolute;
+		width: 675px;
+		height: 675px;
+		left: 968px;
+		top: 2012px;
+		overflow: visible;
+	}
+	#Rectangle_2_bb {
+		fill: rgba(255,255,255,0);
+	}
+	.Rectangle_2_bb {
+		position: absolute;
+		overflow: visible;
+		width: 675px;
+		height: 675px;
+		left: 0px;
+		top: 0px;
+	}
+	#BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bc {
+		left: 47px;
+		top: 480px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#UIUX_Design_bd {
+		left: 47px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#Hover_1_be {
+		position: absolute;
+		width: 675px;
+		height: 675px;
+		left: 277px;
+		top: 3388px;
+		overflow: visible;
+	}
+	#Rectangle_2_bf {
+		fill: rgba(255,255,255,0);
+	}
+	.Rectangle_2_bf {
+		position: absolute;
+		overflow: visible;
+		width: 675px;
+		height: 675px;
+		left: 0px;
+		top: 0px;
+	}
+	#BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bg {
+		left: 47px;
+		top: 480px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#UIUX_Design_bh {
+		left: 47px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#Hover_1_bi {
+		position: absolute;
+		width: 675px;
+		height: 675px;
+		left: 277px;
+		top: 2700px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: SEEING_IS_NOT_BELIEVEING.html;
+		cursor: pointer;
+	}
+	#Rectangle_2_bj {
+		fill: rgba(255,255,255,0);
+	}
+	.Rectangle_2_bj {
+		position: absolute;
+		overflow: visible;
+		width: 675px;
+		height: 675px;
+		left: 0px;
+		top: 0px;
+	}
+	#BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bk {
+		left: 47px;
+		top: 480px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#UIUX_Design_bl {
+		left: 47px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#Hover_1_bm {
+		position: absolute;
+		width: 675px;
+		height: 675px;
+		left: 968px;
+		top: 3388px;
+		overflow: visible;
+	}
+	#Rectangle_2_bn {
+		fill: rgba(255,255,255,0);
+	}
+	.Rectangle_2_bn {
+		position: absolute;
+		overflow: visible;
+		width: 675px;
+		height: 675px;
+		left: 0px;
+		top: 0px;
+	}
+	#BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bo {
+		left: 47px;
+		top: 480px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#UIUX_Design_bp {
+		left: 47px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#n_1 {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 727px;
+		top: 5599px;
+		overflow: visible;
+	}
+	#n_4 {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 1141px;
+		top: 5599px;
+		overflow: visible;
+	}
+	#n_3 {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 1003px;
+		top: 5599px;
+		overflow: visible;
+	}
+	#n_2 {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 865px;
+		top: 5599px;
+		overflow: visible;
+	}
+	#Quote_KNOWING_bu {
+		left: 278px;
+		top: 1927px;
+		position: absolute;
+		overflow: visible;
+		width: 272px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.5px;
+	}
+	#Pro2 {
+		position: absolute;
+		width: 674px;
+		height: 674px;
+		left: 968px;
+		top: 2701px;
+		overflow: visible;
 	}
 	#Hover_2 {
 		position: absolute;
 		width: 675px;
 		height: 675px;
-		left: 1016px;
-		top: 1327px;
+		left: 968px;
+		top: 2700px;
 		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: RETHINK__REDO__DEDESIGN_.html;
+		cursor: pointer;
 	}
-	#Rectangle_2_z {
+	#Rectangle_2_bx {
 		fill: rgba(255,255,255,0);
 	}
-	.Rectangle_2_z {
+	.Rectangle_2_bx {
 		position: absolute;
 		overflow: visible;
 		width: 675px;
@@ -272,7 +567,7 @@
 		font-style: normal;
 		font-weight: bold;
 		font-size: 24px;
-		color: rgba(0,0,0,0);
+		color: rgba(255,255,255,0);
 		letter-spacing: 0.5px;
 	}
 	#Visual_System_Design_Typograph {
@@ -287,7 +582,129 @@
 		font-style: normal;
 		font-weight: lighter;
 		font-size: 20px;
-		color: rgba(0,0,0,0);
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#Quote_KNOWING_b {
+		left: 279px;
+		top: 1265px;
+		position: absolute;
+		overflow: visible;
+		width: 1357px;
+		white-space: nowrap;
+		line-height: 100px;
+		margin-top: -20px;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.5px;
+	}
+	#Works {
+		left: 1323px;
+		top: 71px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		height: 30px;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 67px;
+		height: 3px;
+		left: 1323px;
+		top: 102px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Quote_KNOWING_ca {
+		left: 278px;
+		top: 4314px;
+		position: absolute;
+		overflow: visible;
+		width: 258px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.5px;
+	}
+	#n_4_b {
+		position: absolute;
+		width: 1364px;
+		height: 859px;
+		left: 278px;
+		top: 4399px;
+		overflow: visible;
+	}
+	#Hover_1_b {
+		position: absolute;
+		width: 1365px;
+		height: 859px;
+		left: 278px;
+		top: 4399px;
+		overflow: visible;
+	}
+	#Rectangle_2_b {
+		fill: rgba(255,255,255,0);
+	}
+	.Rectangle_2_b {
+		position: absolute;
+		overflow: visible;
+		width: 1365px;
+		height: 859px;
+		left: 0px;
+		top: 0px;
+	}
+	#BE_YOUR_OWN__WILDLIFE_PHOTOGRA_b {
+		left: 47px;
+		top: 623px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Garamond Premier Pro;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,0);
+		letter-spacing: 0.5px;
+	}
+	#UIUX_Design_b {
+		left: 47px;
+		top: 754px;
+		position: absolute;
+		overflow: visible;
+		width: 121px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: FranklinGothic URW;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 20px;
+		color: rgba(255,255,255,0);
 		letter-spacing: 0.5px;
 	}
 </style>
@@ -3209,24 +3626,10 @@ window.application = new Application();
 	<div id="Header_MENGYANG_">
 		<span>MENGYANG LEE</span>
 	</div>
-	<div id="Header_Works">
-		<span>Works</span>
-	</div>
-	<div id="Header_Portfolio">
-		<span>Portfolio</span>
-	</div>
 	<div id="Quote_KNOWING">
-		<span>KNOWING <br/>YOURSELF <br/>IS THE BEGINING<br/>OF ALL WISTOM</span>
-	</div>
-	<div id="Header_About">
-		<span>About</span>
-	</div>
-	<div id="Header_Rsum">
-		<span>Résumé</span>
+		<span>KNOWING <br/>YOURSELF <br/>IS THE </span><span style="color:rgba(0,0,0,1);">BEGINNING</span><br/><span>OF ALL WISTOM</span>
 	</div>
 	<img id="Pro4" src="Pro4.png" srcset="Pro4.png 1x, Pro4@2x.png 2x">
-		
-	<img id="Pro2" src="Pro2.png" srcset="Pro2.png 1x, Pro2@2x.png 2x">
 		
 	<img id="Pro5" src="Pro5.png" srcset="Pro5.png 1x, Pro5@2x.png 2x">
 		
@@ -3251,9 +3654,90 @@ window.application = new Application();
 			<span>UI/UX Design</span>
 		</div>
 	</div>
-	<div id="Hover_2" class="Hover_2_">
-		<svg class="Rectangle_2_z">
-			<rect id="Rectangle_2_z" rx="0" ry="0" x="0" y="0" width="675" height="675">
+	<div id="Arrow_Hover" class="Arrow_Hover">
+		<div id="Text">
+			<span>>></span>
+		</div>
+	</div>
+	<div id="Header_Hover" class="Header_Hover">
+		<div id="Header_Works">
+			<span>Portfolio</span>
+		</div>
+	</div>
+	<div id="Header_Hover_" class="Header_Hover">
+		<div id="Header_Works_">
+			<span>About</span>
+		</div>
+	</div>
+	<div id="Header_Hover_ba" class="Header_Hover">
+		<div id="Header_Works_ba">
+			<span>Résumé</span>
+		</div>
+	</div>
+	<div id="Hover_1_ba" class="Hover_1_">
+		<svg class="Rectangle_2_bb">
+			<rect id="Rectangle_2_bb" rx="0" ry="0" x="0" y="0" width="675" height="675">
+			</rect>
+		</svg>
+		<div id="BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bc">
+			<span>BE YOUR OWN WILDLIFE PHOTOGRAPHER_</span>
+		</div>
+		<div id="UIUX_Design_bd">
+			<span>UI/UX Design</span>
+		</div>
+	</div>
+	<div id="Hover_1_be" class="Hover_1_">
+		<svg class="Rectangle_2_bf">
+			<rect id="Rectangle_2_bf" rx="0" ry="0" x="0" y="0" width="675" height="675">
+			</rect>
+		</svg>
+		<div id="BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bg">
+			<span>BE YOUR OWN WILDLIFE PHOTOGRAPHER_</span>
+		</div>
+		<div id="UIUX_Design_bh">
+			<span>UI/UX Design</span>
+		</div>
+	</div>
+	<div onclick="application.goToTargetView(event)" id="Hover_1_bi" class="Hover_1_">
+		<svg class="Rectangle_2_bj">
+			<rect id="Rectangle_2_bj" rx="0" ry="0" x="0" y="0" width="675" height="675">
+			</rect>
+		</svg>
+		<div id="BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bk">
+			<span>BE YOUR OWN WILDLIFE PHOTOGRAPHER_</span>
+		</div>
+		<div id="UIUX_Design_bl">
+			<span>UI/UX Design</span>
+		</div>
+	</div>
+	<div id="Hover_1_bm" class="Hover_1_">
+		<svg class="Rectangle_2_bn">
+			<rect id="Rectangle_2_bn" rx="0" ry="0" x="0" y="0" width="675" height="675">
+			</rect>
+		</svg>
+		<div id="BE_YOUR_OWN__WILDLIFE_PHOTOGRA_bo">
+			<span>BE YOUR OWN WILDLIFE PHOTOGRAPHER_</span>
+		</div>
+		<div id="UIUX_Design_bp">
+			<span>UI/UX Design</span>
+		</div>
+	</div>
+	<img id="n_1" src="n_1.png" srcset="n_1.png 1x, n_1@2x.png 2x">
+		
+	<img id="n_4" src="n_4.png" srcset="n_4.png 1x, n_4@2x.png 2x">
+		
+	<img id="n_3" src="n_3.png" srcset="n_3.png 1x, n_3@2x.png 2x">
+		
+	<img id="n_2" src="n_2.png" srcset="n_2.png 1x, n_2@2x.png 2x">
+		
+	<div id="Quote_KNOWING_bu">
+		<span></span><span style="font-size:24px;color:rgba(0,0,0,1);letter-spacing:0.3px;">Selected works 2020_2021</span>
+	</div>
+	<img id="Pro2" src="Pro2.png" srcset="Pro2.png 1x, Pro2@2x.png 2x">
+		
+	<div onclick="application.goToTargetView(event)" id="Hover_2" class="Hover_2_">
+		<svg class="Rectangle_2_bx">
+			<rect id="Rectangle_2_bx" rx="0" ry="0" x="0" y="0" width="675" height="675">
 			</rect>
 		</svg>
 		<div id="RETHINK_REDO_REDESIGN_">
@@ -3261,6 +3745,33 @@ window.application = new Application();
 		</div>
 		<div id="Visual_System_Design_Typograph">
 			<span>Visual System Design_Typography</span>
+		</div>
+	</div>
+	<div id="Quote_KNOWING_b">
+		<span></span><span style="color:rgba(0,0,0,1);letter-spacing:0.7px;">To reflect is to think and to learn.<br/>Only by fully reflecting can we learn who we are, and what we are capable and lack of.</span>
+	</div>
+	<div id="Works">
+		<span>Works</span>
+	</div>
+	<svg class="Line_1" viewBox="0 0 67 3">
+		<path id="Line_1" d="M 0 0 L 67 0">
+		</path>
+	</svg>
+	<div id="Quote_KNOWING_ca">
+		<span></span><span style="font-size:24px;color:rgba(0,0,0,1);letter-spacing:0.3px;">Reflection, MA Portfolio</span>
+	</div>
+	<img id="n_4_b" src="n_4_b.png" srcset="n_4_b.png 1x, n_4_b@2x.png 2x">
+		
+	<div id="Hover_1_b" class="Hover_1_">
+		<svg class="Rectangle_2_b">
+			<rect id="Rectangle_2_b" rx="0" ry="0" x="0" y="0" width="1365" height="859">
+			</rect>
+		</svg>
+		<div id="BE_YOUR_OWN__WILDLIFE_PHOTOGRA_b">
+			<span>BE YOUR OWN WILDLIFE PHOTOGRAPHER_</span>
+		</div>
+		<div id="UIUX_Design_b">
+			<span>UI/UX Design</span>
 		</div>
 	</div>
 </div>
