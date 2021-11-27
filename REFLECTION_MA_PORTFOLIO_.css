@@ -34,12 +34,12 @@
 	}
 
 }
-#Quote_KNOWING_ko {
+#Quote_KNOWING {
 	left: 278px;
 	top: 364px;
 	position: absolute;
 	overflow: visible;
-	width: 595px;
+	width: 411px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__kp {
+#Header_MENGYANG_ {
 	left: 140px;
 	top: 59px;
 	position: absolute;
@@ -68,15 +68,19 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_kq {
+#Header_Hover {
 	position: absolute;
 	width: 65px;
 	height: 29px;
 	left: 1323px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: MengyangLee.html;
+	cursor: pointer;
 }
-#Header_Works_kr {
+#Header_Works {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -91,15 +95,19 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_ks {
+#Header_Hover_t {
 	position: absolute;
 	width: 62px;
 	height: 29px;
 	left: 1582px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ABOUT.html;
+	cursor: pointer;
 }
-#Header_Works_kt {
+#Header_Works_u {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -114,15 +122,19 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_ku {
+#Header_Hover_v {
 	position: absolute;
 	width: 87px;
 	height: 29px;
 	left: 1693px;
 	top: 70px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: R_sum_.html;
+	cursor: pointer;
 }
-#Header_Works_kv {
+#Header_Works_w {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -137,7 +149,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_kw {
+#Quote_KNOWING_x {
 	left: 140px;
 	top: 2178px;
 	position: absolute;
@@ -188,7 +200,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#n_4_kz {
+#n_4 {
 	position: absolute;
 	width: 1920px;
 	height: 1191px;
@@ -196,7 +208,7 @@
 	top: 774px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri_k {
+#n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
 	top: 3778px;
 	position: absolute;
@@ -210,7 +222,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#n_1_k {
+#n_1 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -218,7 +230,7 @@
 	top: 3651px;
 	overflow: visible;
 }
-#n_4_k {
+#n_4_ {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -226,7 +238,7 @@
 	top: 3651px;
 	overflow: visible;
 }
-#n_3_k {
+#n_3 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -234,7 +246,7 @@
 	top: 3651px;
 	overflow: visible;
 }
-#n_2_k {
+#n_2 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -242,7 +254,7 @@
 	top: 3651px;
 	overflow: visible;
 }
-#Header_Hover_k {
+#Header_Hover_ {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -254,7 +266,7 @@
 	--web-action-target: TRY_AND_ERROR_AND_THEN_TRY_AGAIN_.html;
 	cursor: pointer;
 }
-#Header_Works_k {
+#Header_Works_ {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -269,7 +281,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Try_and_error_and_then_try_aga_k {
+#Try_and_error_and_then_try_aga {
 	left: 140px;
 	top: 3375px;
 	position: absolute;
@@ -283,7 +295,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#BACK_TO_TOP_k {
+#BACK_TO_TOP {
 	left: 801px;
 	top: 3341px;
 	position: absolute;
@@ -313,7 +325,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_1_la {
+#Line_1 {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 3px;
@@ -322,7 +334,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_1_la {
+.Line_1 {
 	overflow: visible;
 	position: absolute;
 	width: 89px;
@@ -344,5 +356,20 @@
 	font-weight: lighter;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Quote_KNOWING_bd {
+	left: 416px;
+	top: 447px;
+	position: absolute;
+	overflow: visible;
+	width: 523px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
