@@ -490,10 +490,6 @@
 	left: 278px;
 	top: 4399px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
-	cursor: pointer;
 }
 #Rectangle_2_bt {
 	fill: rgba(255,255,255,0);
