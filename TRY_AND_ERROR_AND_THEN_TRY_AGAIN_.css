@@ -131,7 +131,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: R_sum_.html;
+	--web-action-target: Resume.html;
 	cursor: pointer;
 }
 #Header_Works_w {

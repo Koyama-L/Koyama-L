@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Résumé;
-	--web-view-id: Rsum;
+	--web-view-name: Resume;
+	--web-view-id: Resume;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Rsum;
+	--web-view-ids: Resume;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Rsum {
+#Resume {
 	position: absolute;
 	width: 1920px;
 	height: 1297px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Résumé;
-	--web-view-id: Rsum;
+	--web-view-name: Resume;
+	--web-view-id: Resume;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -34,25 +34,6 @@
 	}
 
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 65px;
@@ -60,6 +41,10 @@
 	left: 1323px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 }
 #Header_Works {
 	left: 0px;
@@ -76,7 +61,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#Header_Hover_r {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -88,7 +73,7 @@
 	--web-action-target: ABOUT.html;
 	cursor: pointer;
 }
-#Header_Works_t {
+#Header_Works_s {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -149,15 +134,19 @@
 	top: 990px;
 	overflow: visible;
 }
-#Header_Hover_z {
+#Header_Hover_y {
 	position: absolute;
 	width: 91px;
 	height: 29px;
 	left: 1437px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	cursor: pointer;
 }
-#Header_Works_ {
+#Header_Works_z {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -172,7 +161,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Rsum_ {
+#Rsum {
 	left: 1693px;
 	top: 70px;
 	position: absolute;
@@ -204,4 +193,23 @@
 	left: 1693px;
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }

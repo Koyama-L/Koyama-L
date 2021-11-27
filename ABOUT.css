@@ -34,25 +34,6 @@
 	}
 
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 65px;
@@ -60,6 +41,10 @@
 	left: 1323px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 }
 #Header_Works {
 	left: 0px;
@@ -76,7 +61,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#Header_Hover_r {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -85,10 +70,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: R_sum_.html;
+	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_t {
+#Header_Works_s {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -167,13 +152,17 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Header_Hover_ {
+#Header_Hover_z {
 	position: absolute;
 	width: 91px;
 	height: 29px;
 	left: 1437px;
 	top: 71px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	cursor: pointer;
 }
 #Header_Works_ {
 	left: 0px;
@@ -202,6 +191,25 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
