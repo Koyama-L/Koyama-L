@@ -43,7 +43,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -149,25 +149,7 @@
 	top: 990px;
 	overflow: visible;
 }
-#Line_2 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_2 {
-	overflow: visible;
-	position: absolute;
-	width: 86.5px;
-	height: 3px;
-	left: 1693.5px;
-	top: 102.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Header_Hover_ {
+#Header_Hover_z {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -204,4 +186,22 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 87px;
+	height: 3px;
+	left: 1693px;
+	top: 102px;
+	transform: matrix(1,0,0,1,0,0);
 }

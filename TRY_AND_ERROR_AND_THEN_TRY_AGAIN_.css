@@ -58,7 +58,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -545,6 +545,10 @@
 	overflow: visible;
 	width: 68px;
 	height: 30px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: FranklinGothic URW;
 	font-style: normal;

@@ -49,25 +49,6 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 91px;
@@ -95,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#Header_Hover_s {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -107,7 +88,7 @@
 	--web-action-target: ABOUT.html;
 	cursor: pointer;
 }
-#Header_Works_u {
+#Header_Works_t {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -122,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Header_Hover_u {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -134,7 +115,7 @@
 	--web-action-target: R_sum_.html;
 	cursor: pointer;
 }
-#Header_Works_w {
+#Header_Works_v {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -149,7 +130,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_x {
+#Quote_KNOWING_w {
 	left: 139px;
 	top: 2178px;
 	position: absolute;
@@ -382,7 +363,7 @@
 	top: 8977px;
 	overflow: visible;
 }
-#Header_Hover_bj {
+#Header_Hover_bi {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -394,7 +375,7 @@
 	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
 	cursor: pointer;
 }
-#Header_Works_bk {
+#Header_Works_bj {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -409,7 +390,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bl {
+#Header_Hover_bk {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -421,7 +402,7 @@
 	--web-action-target: SEEING_IS_NOT_BELIEVEING.html;
 	cursor: pointer;
 }
-#Header_Works_bm {
+#Header_Works_bl {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -486,7 +467,7 @@
 	left: 968px;
 	top: 4464px;
 }
-#Pro2_Book_br {
+#Pro2_Book_bq {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	width: 719px;
@@ -495,7 +476,7 @@
 	top: 4555px;
 	overflow: visible;
 }
-#Pro2_Book_bs {
+#Pro2_Book_br {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	width: 719px;
@@ -553,10 +534,10 @@
 	transform: matrix(1,0,0,1,0,0);
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Quote_KNOWING_bw {
+#Quote_KNOWING_bv {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -569,5 +550,24 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

@@ -49,25 +49,6 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 91px;
@@ -95,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#Header_Hover_s {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -107,7 +88,7 @@
 	--web-action-target: ABOUT.html;
 	cursor: pointer;
 }
-#Header_Works_u {
+#Header_Works_t {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -122,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Header_Hover_u {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -134,7 +115,7 @@
 	--web-action-target: R_sum_.html;
 	cursor: pointer;
 }
-#Header_Works_w {
+#Header_Works_v {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -149,7 +130,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_x {
+#Quote_KNOWING_w {
 	left: 140px;
 	top: 2176px;
 	position: absolute;
@@ -283,7 +264,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_ba {
+#Pro1_Frame1_ {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -291,7 +272,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_bb {
+#Pro1_Frame1_ba {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -299,7 +280,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_bc {
+#Pro1_Frame1_bb {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -307,7 +288,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_bd {
+#Pro1_Frame1_bc {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -361,7 +342,7 @@
 	top: 12415px;
 	overflow: visible;
 }
-#Header_Hover_bj {
+#Header_Hover_bi {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -373,7 +354,7 @@
 	--web-action-target: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT.html;
 	cursor: pointer;
 }
-#Header_Works_bk {
+#Header_Works_bj {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -448,6 +429,10 @@
 	overflow: visible;
 	width: 68px;
 	height: 30px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: FranklinGothic URW;
 	font-style: normal;
@@ -474,7 +459,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bs {
+#Quote_KNOWING_br {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -487,5 +472,24 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

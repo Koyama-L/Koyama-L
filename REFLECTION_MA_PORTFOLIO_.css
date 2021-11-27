@@ -58,7 +58,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -77,7 +77,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #Header_Works {
@@ -325,24 +325,6 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_1 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_1 {
-	overflow: visible;
-	position: absolute;
-	width: 89px;
-	height: 3px;
-	left: 1438px;
-	top: 102.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
 #Portfolio {
 	left: 1436px;
 	top: 71px;
@@ -358,7 +340,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_bd {
+#Quote_KNOWING_bc {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -372,4 +354,22 @@
 	font-size: 60px;
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 91px;
+	height: 3px;
+	left: 1436px;
+	top: 102px;
+	transform: matrix(1,0,0,1,0,0);
 }

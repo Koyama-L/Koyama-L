@@ -43,7 +43,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -161,10 +161,10 @@
 .Line_1 {
 	overflow: visible;
 	position: absolute;
-	width: 62px;
+	width: 63px;
 	height: 3px;
 	left: 1582px;
-	top: 103px;
+	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Header_Hover_ {

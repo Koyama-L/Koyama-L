@@ -1,0 +1,523 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 5906px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#My_Pic {
+	position: absolute;
+	width: 1928px;
+	height: 1080px;
+	left: -8px;
+	top: 0px;
+	overflow: visible;
+}
+#Quote_KNOWING {
+	left: 830px;
+	top: 485px;
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Pro4 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 278px;
+	top: 3388px;
+	overflow: visible;
+}
+#Pro5 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 278px;
+	top: 2701px;
+	overflow: visible;
+}
+#Pro3 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 968px;
+	top: 2012px;
+	overflow: visible;
+}
+#Pro1 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 278px;
+	top: 2012px;
+	overflow: visible;
+}
+#Pro6 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 968px;
+	top: 3388px;
+	overflow: visible;
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 5726px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Hover_1 {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 277px;
+	top: 2012px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#Arrow_Hover {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 1443px;
+	top: 801px;
+	overflow: visible;
+}
+#Text {
+	transform: translate(0px, 0px) matrix(1,0,0,1,-1,1) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover {
+	position: absolute;
+	width: 91px;
+	height: 29px;
+	left: 1437px;
+	top: 71px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	cursor: pointer;
+}
+#Header_Works {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover_ {
+	position: absolute;
+	width: 62px;
+	height: 29px;
+	left: 1582px;
+	top: 71px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: ABOUT.html;
+	cursor: pointer;
+}
+#Header_Works_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover_ba {
+	position: absolute;
+	width: 87px;
+	height: 29px;
+	left: 1693px;
+	top: 70px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: R_sum_.html;
+	cursor: pointer;
+}
+#Header_Works_ba {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Hover_1_ {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 968px;
+	top: 2012px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+}
+#Rectangle_2_ {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_ {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#Hover_1_ba {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 277px;
+	top: 3388px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+}
+#Rectangle_2_ba {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_ba {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#Hover_1_bb {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 277px;
+	top: 2700px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: SEEING_IS_NOT_BELIEVEING.html;
+	cursor: pointer;
+}
+#Rectangle_2_bc {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_bc {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#Hover_1_bd {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 968px;
+	top: 3388px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+}
+#Rectangle_2_be {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_be {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#n_1 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 727px;
+	top: 5599px;
+	overflow: visible;
+}
+#n_4 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1141px;
+	top: 5599px;
+	overflow: visible;
+}
+#n_3 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1003px;
+	top: 5599px;
+	overflow: visible;
+}
+#n_2 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 865px;
+	top: 5599px;
+	overflow: visible;
+}
+#Quote_KNOWING_bj {
+	left: 278px;
+	top: 1927px;
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Pro2 {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 968px;
+	top: 2701px;
+	overflow: visible;
+}
+#Hover_2 {
+	position: absolute;
+	width: 675px;
+	height: 675px;
+	left: 968px;
+	top: 2700px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: RETHINK__REDO__DEDESIGN_.html;
+	cursor: pointer;
+}
+#Rectangle_2_bm {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_bm {
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 675px;
+	left: 0px;
+	top: 0px;
+}
+#Quote_KNOWING_bn {
+	left: 279px;
+	top: 1265px;
+	position: absolute;
+	overflow: visible;
+	width: 1357px;
+	white-space: nowrap;
+	line-height: 100px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Works {
+	left: 1323px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 30px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 67px;
+	height: 3px;
+	left: 1323px;
+	top: 102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Quote_KNOWING_bq {
+	left: 278px;
+	top: 4314px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#n_4_br {
+	position: absolute;
+	width: 1364px;
+	height: 859px;
+	left: 278px;
+	top: 4399px;
+	overflow: visible;
+}
+#Hover_1_bs {
+	position: absolute;
+	width: 1365px;
+	height: 859px;
+	left: 278px;
+	top: 4399px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+}
+#Rectangle_2_bt {
+	fill: rgba(255,255,255,0);
+}
+.Rectangle_2_bt {
+	position: absolute;
+	overflow: visible;
+	width: 1365px;
+	height: 859px;
+	left: 0px;
+	top: 0px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}

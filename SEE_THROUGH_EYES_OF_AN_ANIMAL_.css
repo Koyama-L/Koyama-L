@@ -49,25 +49,6 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 91px;
@@ -95,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#Header_Hover_s {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -107,7 +88,7 @@
 	--web-action-target: ABOUT.html;
 	cursor: pointer;
 }
-#Header_Works_u {
+#Header_Works_t {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -122,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Header_Hover_u {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -134,7 +115,7 @@
 	--web-action-target: R_sum_.html;
 	cursor: pointer;
 }
-#Header_Works_w {
+#Header_Works_v {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -149,7 +130,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_x {
+#Quote_KNOWING_w {
 	left: 140px;
 	top: 2178px;
 	position: absolute;
@@ -372,7 +353,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#n_1_bj {
+#n_1_bi {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -388,7 +369,7 @@
 	top: 9942px;
 	overflow: visible;
 }
-#n_3_bl {
+#n_3_bk {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -396,7 +377,7 @@
 	top: 9942px;
 	overflow: visible;
 }
-#n_2_bm {
+#n_2_bl {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -404,7 +385,7 @@
 	top: 9942px;
 	overflow: visible;
 }
-#Header_Hover_bn {
+#Header_Hover_bm {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -416,7 +397,7 @@
 	--web-action-target: RETHINK__REDO__DEDESIGN_.html;
 	cursor: pointer;
 }
-#Header_Works_bo {
+#Header_Works_bn {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -431,7 +412,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bp {
+#Header_Hover_bo {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -443,7 +424,7 @@
 	--web-action-target: TRY_AND_ERROR_AND_THEN_TRY_AGAIN_.html;
 	cursor: pointer;
 }
-#Header_Works_bq {
+#Header_Works_bp {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -502,12 +483,16 @@
 	letter-spacing: 0.5px;
 }
 #Works {
-	left: 1321px;
-	top: 86px;
+	left: 1323px;
+	top: 71px;
 	position: absolute;
 	overflow: visible;
 	width: 68px;
 	height: 30px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: FranklinGothic URW;
 	font-style: normal;
@@ -534,7 +519,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bw {
+#Quote_KNOWING_bv {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -547,5 +532,24 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

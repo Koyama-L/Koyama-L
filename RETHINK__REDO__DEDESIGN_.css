@@ -49,25 +49,6 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengyangLee.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Header_Hover {
 	position: absolute;
 	width: 91px;
@@ -95,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#Header_Hover_s {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -107,7 +88,7 @@
 	--web-action-target: ABOUT.html;
 	cursor: pointer;
 }
-#Header_Works_u {
+#Header_Works_t {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -122,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Header_Hover_u {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -134,7 +115,7 @@
 	--web-action-target: R_sum_.html;
 	cursor: pointer;
 }
-#Header_Works_w {
+#Header_Works_v {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -149,7 +130,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_x {
+#Quote_KNOWING_w {
 	left: 140px;
 	top: 2174px;
 	position: absolute;
@@ -345,7 +326,7 @@
 	left: 140px;
 	top: 12010px;
 }
-#Pro4_Frame_bh {
+#Pro4_Frame_bg {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -353,7 +334,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bi {
+#Pro4_Frame_bh {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -361,7 +342,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bj {
+#Pro4_Frame_bi {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -369,7 +350,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bk {
+#Pro4_Frame_bj {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -377,7 +358,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bl {
+#Pro4_Frame_bk {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -399,7 +380,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#n_1_bn {
+#n_1_bm {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -423,7 +404,7 @@
 	top: 16205px;
 	overflow: visible;
 }
-#n_2_bq {
+#n_2_bp {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -431,7 +412,7 @@
 	top: 16205px;
 	overflow: visible;
 }
-#Header_Hover_br {
+#Header_Hover_bq {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -443,7 +424,7 @@
 	--web-action-target: SEEING_IS_NOT_BELIEVEING.html;
 	cursor: pointer;
 }
-#Header_Works_bs {
+#Header_Works_br {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -458,7 +439,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bt {
+#Header_Hover_bs {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -470,7 +451,7 @@
 	--web-action-target: SEE_THROUGH_EYES_OF_AN_ANIMAL_.html;
 	cursor: pointer;
 }
-#Header_Works_bu {
+#Header_Works_bt {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -513,7 +494,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Pro4_Frame_bx {
+#Pro4_Frame_bw {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -521,7 +502,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_by {
+#Pro4_Frame_bx {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -529,7 +510,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_bz {
+#Pro4_Frame_by {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -559,6 +540,10 @@
 	overflow: visible;
 	width: 68px;
 	height: 30px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
 	text-align: left;
 	font-family: FranklinGothic URW;
 	font-style: normal;
@@ -598,5 +583,24 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
