@@ -1,0 +1,348 @@
+.mediaViewInfo {
+	--web-view-name: REFLECTION MA PORTFOLIO_;
+	--web-view-id: REFLECTION_MA_PORTFOLIO_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: REFLECTION_MA_PORTFOLIO_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#REFLECTION_MA_PORTFOLIO_ {
+	position: absolute;
+	width: 1920px;
+	height: 3960px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: REFLECTION MA PORTFOLIO_;
+	--web-view-id: REFLECTION_MA_PORTFOLIO_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Quote_KNOWING_ko {
+	left: 278px;
+	top: 364px;
+	position: absolute;
+	overflow: visible;
+	width: 595px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG__kp {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: MengyangLee.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover_kq {
+	position: absolute;
+	width: 65px;
+	height: 29px;
+	left: 1323px;
+	top: 71px;
+	overflow: visible;
+}
+#Header_Works_kr {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover_ks {
+	position: absolute;
+	width: 62px;
+	height: 29px;
+	left: 1582px;
+	top: 71px;
+	overflow: visible;
+}
+#Header_Works_kt {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_Hover_ku {
+	position: absolute;
+	width: 87px;
+	height: 29px;
+	left: 1693px;
+	top: 70px;
+	overflow: visible;
+}
+#Header_Works_kv {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Quote_KNOWING_kw {
+	left: 140px;
+	top: 2178px;
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	white-space: nowrap;
+	line-height: 100px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#CONCEPT__Self-reflection_is_on {
+	left: 278px;
+	top: 2452px;
+	position: absolute;
+	overflow: visible;
+	width: 951px;
+	height: 511px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Portfolio_from_MA_Graphic_Desi {
+	left: 278px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 214px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#n_4_kz {
+	position: absolute;
+	width: 1920px;
+	height: 1191px;
+	left: 0px;
+	top: 774px;
+	overflow: visible;
+}
+#n_2021_by_MengYang_Lee__All_Ri_k {
+	left: 140px;
+	top: 3778px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n_1_k {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 727px;
+	top: 3651px;
+	overflow: visible;
+}
+#n_4_k {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1141px;
+	top: 3651px;
+	overflow: visible;
+}
+#n_3_k {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1003px;
+	top: 3651px;
+	overflow: visible;
+}
+#n_2_k {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 865px;
+	top: 3651px;
+	overflow: visible;
+}
+#Header_Hover_k {
+	position: absolute;
+	width: 152px;
+	height: 24px;
+	left: 140px;
+	top: 3341px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: TRY_AND_ERROR_AND_THEN_TRY_AGAIN_.html;
+	cursor: pointer;
+}
+#Header_Works_k {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Try_and_error_and_then_try_aga_k {
+	left: 140px;
+	top: 3375px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#BACK_TO_TOP_k {
+	left: 801px;
+	top: 3341px;
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 24px;
+	text-align: center;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#GO_TO_ISSUU_PORTFOLIO {
+	left: 278px;
+	top: 2939px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 24px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_1_la {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1_la {
+	overflow: visible;
+	position: absolute;
+	width: 89px;
+	height: 3px;
+	left: 1438px;
+	top: 102.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Portfolio {
+	left: 1436px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 30px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
