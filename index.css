@@ -247,6 +247,10 @@
 	left: 968px;
 	top: 2012px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT.html;
+	cursor: pointer;
 }
 #Rectangle_2_ {
 	fill: rgba(255,255,255,0);
@@ -266,6 +270,10 @@
 	left: 277px;
 	top: 3388px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: SEE_THROUGH_EYES_OF_AN_ANIMAL_.html;
+	cursor: pointer;
 }
 #Rectangle_2_ba {
 	fill: rgba(255,255,255,0);
@@ -308,6 +316,10 @@
 	left: 968px;
 	top: 3388px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: TRY_AND_ERROR_AND_THEN_TRY_AGAIN_.html;
+	cursor: pointer;
 }
 #Rectangle_2_be {
 	fill: rgba(255,255,255,0);
@@ -478,6 +490,10 @@
 	left: 278px;
 	top: 4399px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	cursor: pointer;
 }
 #Rectangle_2_bt {
 	fill: rgba(255,255,255,0);
