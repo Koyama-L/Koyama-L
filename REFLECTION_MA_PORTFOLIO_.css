@@ -200,14 +200,6 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#n_4 {
-	position: absolute;
-	width: 1920px;
-	height: 1191px;
-	left: 0px;
-	top: 774px;
-	overflow: visible;
-}
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
 	top: 3778px;
@@ -230,7 +222,7 @@
 	top: 3651px;
 	overflow: visible;
 }
-#n_4_ {
+#n_4 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -340,7 +332,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_bc {
+#Quote_KNOWING_bb {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -372,4 +364,12 @@
 	left: 1436px;
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#n_4_bd {
+	position: absolute;
+	width: 1920px;
+	height: 1208px;
+	left: 0px;
+	top: 772px;
+	overflow: visible;
 }

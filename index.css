@@ -247,10 +247,6 @@
 	left: 968px;
 	top: 2012px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
-	cursor: pointer;
 }
 #Rectangle_2_ {
 	fill: rgba(255,255,255,0);
@@ -270,10 +266,6 @@
 	left: 277px;
 	top: 3388px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
-	cursor: pointer;
 }
 #Rectangle_2_ba {
 	fill: rgba(255,255,255,0);
@@ -316,10 +308,6 @@
 	left: 968px;
 	top: 3388px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
-	cursor: pointer;
 }
 #Rectangle_2_be {
 	fill: rgba(255,255,255,0);
