@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: ABOUT;
-	--web-view-id: ABOUT;
+	--web-view-name: About;
+	--web-view-id: About;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: ABOUT;
+	--web-view-ids: About;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#ABOUT {
+#About {
 	position: absolute;
 	width: 1920px;
-	height: 1297px;
+	height: 2140px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: ABOUT;
-	--web-view-id: ABOUT;
+	--web-view-name: About;
+	--web-view-id: About;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -90,7 +90,7 @@
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 1117px;
+	top: 1960px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -107,7 +107,7 @@
 	width: 48px;
 	height: 48px;
 	left: 727px;
-	top: 990px;
+	top: 1833px;
 	overflow: visible;
 }
 #n_4 {
@@ -115,7 +115,7 @@
 	width: 48px;
 	height: 48px;
 	left: 1141px;
-	top: 990px;
+	top: 1833px;
 	overflow: visible;
 }
 #n_3 {
@@ -123,7 +123,7 @@
 	width: 48px;
 	height: 48px;
 	left: 1003px;
-	top: 990px;
+	top: 1833px;
 	overflow: visible;
 }
 #n_2 {
@@ -131,7 +131,7 @@
 	width: 48px;
 	height: 48px;
 	left: 865px;
-	top: 990px;
+	top: 1833px;
 	overflow: visible;
 }
 #Line_1 {
@@ -161,7 +161,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
 #Header_Works_ {
@@ -179,7 +179,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#About {
+#About_ {
 	left: 1582px;
 	top: 70px;
 	position: absolute;
@@ -212,4 +212,95 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Quote_KNOWING {
+	left: 278px;
+	top: 364px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#You_can_call_me_Koyama_as_well {
+	left: 278px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 214px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Quote_KNOWING_ {
+	left: 416px;
+	top: 447px;
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#S__41279490 {
+	position: absolute;
+	width: 536px;
+	height: 536px;
+	left: 278px;
+	top: 770px;
+	overflow: visible;
+}
+#ABOUT_ME__My_name_is_MengYang_ {
+	left: 968px;
+	top: 774px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	height: 740px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
+}
+#GO_TO_MY_RSUM {
+	left: 968px;
+	top: 1550px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 21px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
 }

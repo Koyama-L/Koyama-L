@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: UNLOCK THE FUTURE WITH THE POWER OF LIGHT;
-	--web-view-id: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT;
+	--web-view-name: Unlock the future with the power of light;
+	--web-view-id: Unlock_the_future_with_the_power_of_light;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT;
+	--web-view-ids: Unlock_the_future_with_the_power_of_light;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT {
+#Unlock_the_future_with_the_power_of_light {
 	position: absolute;
 	width: 1920px;
 	height: 9288px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: UNLOCK THE FUTURE WITH THE POWER OF LIGHT;
-	--web-view-id: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT;
+	--web-view-name: Unlock the future with the power of light;
+	--web-view-id: Unlock_the_future_with_the_power_of_light;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -58,7 +58,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
 #Header_Works {
@@ -85,7 +85,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: ABOUT.html;
+	--web-action-target: About.html;
 	cursor: pointer;
 }
 #Header_Works_t {
@@ -372,7 +372,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER.html;
+	--web-action-target: Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
 #Header_Works_bj {
@@ -399,7 +399,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: SEEING_IS_NOT_BELIEVEING.html;
+	--web-action-target: Seeing_is_not_believeing.html;
 	cursor: pointer;
 }
 #Header_Works_bl {

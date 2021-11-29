@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: BE YOUR OWN WILDLIFE PHOTOGRAPHER;
-	--web-view-id: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER;
+	--web-view-name: Be your own wildlife photographer;
+	--web-view-id: Be_your_own_wildlife_photographer;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER;
+	--web-view-ids: Be_your_own_wildlife_photographer;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER {
+#Be_your_own_wildlife_photographer {
 	position: absolute;
 	width: 1920px;
 	height: 12720px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: BE YOUR OWN WILDLIFE PHOTOGRAPHER;
-	--web-view-id: BE_YOUR_OWN_WILDLIFE_PHOTOGRAPHER;
+	--web-view-name: Be your own wildlife photographer;
+	--web-view-id: Be_your_own_wildlife_photographer;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -58,7 +58,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
 #Header_Works {
@@ -85,7 +85,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: ABOUT.html;
+	--web-action-target: About.html;
 	cursor: pointer;
 }
 #Header_Works_t {
@@ -351,7 +351,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: UNLOCK_THE_FUTURE_WITH_THE_POWER_OF_LIGHT.html;
+	--web-action-target: Unlock_the_future_with_the_power_of_light.html;
 	cursor: pointer;
 }
 #Header_Works_bj {

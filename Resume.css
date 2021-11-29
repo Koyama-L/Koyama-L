@@ -16,7 +16,7 @@
 #Resume {
 	position: absolute;
 	width: 1920px;
-	height: 1297px;
+	height: 2793px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Resume;
@@ -70,7 +70,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: ABOUT.html;
+	--web-action-target: About.html;
 	cursor: pointer;
 }
 #Header_Works_s {
@@ -90,7 +90,7 @@
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 1117px;
+	top: 2613px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -107,7 +107,7 @@
 	width: 48px;
 	height: 48px;
 	left: 727px;
-	top: 990px;
+	top: 2486px;
 	overflow: visible;
 }
 #n_4 {
@@ -115,7 +115,7 @@
 	width: 48px;
 	height: 48px;
 	left: 1141px;
-	top: 990px;
+	top: 2486px;
 	overflow: visible;
 }
 #n_3 {
@@ -123,7 +123,7 @@
 	width: 48px;
 	height: 48px;
 	left: 1003px;
-	top: 990px;
+	top: 2486px;
 	overflow: visible;
 }
 #n_2 {
@@ -131,7 +131,7 @@
 	width: 48px;
 	height: 48px;
 	left: 865px;
-	top: 990px;
+	top: 2486px;
 	overflow: visible;
 }
 #Header_Hover_y {
@@ -143,7 +143,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: REFLECTION_MA_PORTFOLIO_.html;
+	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
 #Header_Works_z {
@@ -211,5 +211,75 @@
 	font-weight: bold;
 	font-size: 35px;
 	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#letterhead {
+	position: absolute;
+	width: 1640px;
+	height: 1245px;
+	left: 140px;
+	top: 719px;
+	overflow: visible;
+}
+#DOWNLOAD_MY_RSUM {
+	left: 278px;
+	top: 2226px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 21px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.8px;
+}
+#Quote_KNOWING {
+	left: 278px;
+	top: 364px;
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Rsum_ {
+	left: 278px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 537px;
+	height: 107px;
+	line-height: 35px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Quote_KNOWING_ {
+	left: 416px;
+	top: 447px;
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
