@@ -287,20 +287,20 @@
 }
 #GO_TO_MY_RSUM {
 	left: 968px;
-	top: 1550px;
+	top: 1514px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
-	height: 21px;
+	height: 29px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: Resume.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Garamond Premier Pro;
+	font-family: FranklinGothic URW;
 	font-style: normal;
-	font-weight: bold;
-	font-size: 20px;
+	font-weight: lighter;
+	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.8px;
 }
