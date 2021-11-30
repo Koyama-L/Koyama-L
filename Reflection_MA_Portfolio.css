@@ -68,7 +68,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Works_Hover {
 	position: absolute;
 	width: 65px;
 	height: 29px;
@@ -95,7 +95,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -122,7 +122,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -200,53 +200,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 3778px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#n_1 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 3651px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 3651px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 3651px;
-	overflow: visible;
-}
-#n_2 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 3651px;
-	overflow: visible;
-}
-#Header_Hover_ {
+#Header_Hover {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -317,7 +271,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_ba {
+#Quote_KNOWING_ {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -350,7 +304,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_4_bc {
+#Portfolio_mockup {
 	position: absolute;
 	width: 1920px;
 	height: 1208px;
@@ -358,7 +312,7 @@
 	top: 772px;
 	overflow: visible;
 }
-#Header_Hover_bd {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -366,7 +320,7 @@
 	top: 71px;
 	overflow: visible;
 }
-#Header_Works_be {
+#Header_Works_ba {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -380,4 +334,50 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 3780px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 3623px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 3623px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 3623px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 3623px;
+	overflow: visible;
 }

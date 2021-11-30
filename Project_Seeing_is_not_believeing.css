@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -76,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -103,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_u {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -189,7 +189,7 @@
 	top: 774px;
 	overflow: visible;
 }
-#n_2 {
+#appsitemap {
 	position: absolute;
 	width: 1836px;
 	height: 918px;
@@ -197,7 +197,7 @@
 	top: 5689px;
 	overflow: visible;
 }
-#Pro3_Poster {
+#Pro3_Poster03 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -205,7 +205,7 @@
 	top: 3092px;
 	overflow: visible;
 }
-#Pro3_Poster_ {
+#Pro3_Poster02 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -213,7 +213,7 @@
 	top: 3092px;
 	overflow: visible;
 }
-#Pro3_Poster_ba {
+#Pro3_Poster01 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -221,7 +221,7 @@
 	top: 3092px;
 	overflow: visible;
 }
-#Pro3_Frame {
+#Pro3_Frame03 {
 	position: absolute;
 	width: 1542px;
 	height: 1157px;
@@ -229,53 +229,7 @@
 	top: 8909px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 18782px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#n_1 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 18655px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 18655px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 18655px;
-	overflow: visible;
-}
-#n_2_ {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 18655px;
-	overflow: visible;
-}
-#Header_Hover_ba {
+#Header_Hover {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -287,7 +241,7 @@
 	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
 	cursor: pointer;
 }
-#Header_Works_bb {
+#Header_Works_ {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -302,7 +256,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Pro3_Frame_bc {
+#Pro3_Frame02 {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -310,7 +264,7 @@
 	top: 6812px;
 	overflow: visible;
 }
-#Pro3_Frame_bd {
+#Pro3_Frame01 {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -329,7 +283,7 @@
 	left: 140px;
 	top: 7771px;
 }
-#Pro3_Frame_bf {
+#Pro3_Frame27 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -337,7 +291,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bg {
+#Pro3_Frame26 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -345,7 +299,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bh {
+#Pro3_Frame25 {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -353,7 +307,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bi {
+#Pro3_Frame24 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -361,7 +315,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bj {
+#Pro3_Frame23 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -369,7 +323,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bk {
+#Pro3_Frame22 {
 	position: absolute;
 	width: 1640px;
 	height: 1148px;
@@ -377,7 +331,7 @@
 	top: 4329px;
 	overflow: visible;
 }
-#Pro3_Frame_bl {
+#Pro3_Frame21 {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -385,7 +339,7 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bm {
+#Pro3_Frame20 {
 	position: absolute;
 	width: 552px;
 	height: 418px;
@@ -393,7 +347,7 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bn {
+#Pro3_Frame19 {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -401,7 +355,7 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bo {
+#Pro3_Frame18 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -409,7 +363,7 @@
 	top: 12516px;
 	overflow: visible;
 }
-#Pro3_Frame_bp {
+#Pro3_Frame17 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -417,7 +371,7 @@
 	top: 12516px;
 	overflow: visible;
 }
-#Pro3_Frame_bq {
+#Pro3_Frame16 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -425,7 +379,7 @@
 	top: 12516px;
 	overflow: visible;
 }
-#Pro3_Frame_br {
+#Pro3_Frame15 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -433,7 +387,7 @@
 	top: 12945px;
 	overflow: visible;
 }
-#Pro3_Frame_bs {
+#Pro3_Frame14 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -441,7 +395,7 @@
 	top: 12945px;
 	overflow: visible;
 }
-#Pro3_Frame_bt {
+#Pro3_Frame13 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -449,7 +403,7 @@
 	top: 12945px;
 	overflow: visible;
 }
-#Pro3_Frame_bu {
+#Pro3_Frame12 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -457,7 +411,7 @@
 	top: 13374px;
 	overflow: visible;
 }
-#Pro3_Frame_bv {
+#Pro3_Frame11 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -465,7 +419,7 @@
 	top: 13374px;
 	overflow: visible;
 }
-#Pro3_Frame_bw {
+#Pro3_Frame10 {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -473,7 +427,7 @@
 	top: 13374px;
 	overflow: visible;
 }
-#Pro3_Book {
+#Pro3_Book09 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -481,7 +435,7 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_by {
+#Pro3_Book08 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -489,7 +443,7 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_bz {
+#Pro3_Book07 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -497,7 +451,7 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_b {
+#Pro3_Book06 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -505,7 +459,7 @@
 	top: 15775px;
 	overflow: visible;
 }
-#Pro3_Book_ca {
+#Pro3_Book05 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -513,7 +467,7 @@
 	top: 15775px;
 	overflow: visible;
 }
-#Pro3_Book_cb {
+#Pro3_Book04 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -521,7 +475,7 @@
 	top: 15775px;
 	overflow: visible;
 }
-#Pro3_Book_cc {
+#Pro3_Book03 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -529,7 +483,7 @@
 	top: 16158px;
 	overflow: visible;
 }
-#Pro3_Book_cd {
+#Pro3_Book02 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -537,7 +491,7 @@
 	top: 16158px;
 	overflow: visible;
 }
-#Pro3_Book_ce {
+#Pro3_Book01 {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -556,7 +510,7 @@
 	left: 140px;
 	top: 16762px;
 }
-#Pro3_Book_cf {
+#Pro3_Book00 {
 	position: absolute;
 	width: 1364px;
 	height: 1015px;
@@ -572,7 +526,7 @@
 	top: 13912px;
 	overflow: visible;
 }
-#Pro3_Frame_b {
+#Pro3_Frame00 {
 	position: absolute;
 	width: 1545px;
 	height: 831px;
@@ -595,7 +549,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works {
+#Works_Hover {
 	left: 1323px;
 	top: 71px;
 	position: absolute;
@@ -632,7 +586,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_cd {
+#Quote_KNOWING_b {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -679,4 +633,50 @@
 	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 18784px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 18627px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 18627px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 18627px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 18627px;
+	overflow: visible;
 }

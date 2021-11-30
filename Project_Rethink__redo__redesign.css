@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -76,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -103,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_u {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -208,7 +208,7 @@
 	top: 6890px;
 	overflow: visible;
 }
-#Pro4_Poster {
+#Pro4_Poster16 {
 	position: absolute;
 	width: 1640px;
 	height: 1148px;
@@ -216,7 +216,7 @@
 	top: 3013px;
 	overflow: visible;
 }
-#Pro4_Poster_ {
+#Pro4_Poster15 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -224,7 +224,7 @@
 	top: 4207px;
 	overflow: visible;
 }
-#Pro4_Poster_ba {
+#Pro4_Poster14 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -232,7 +232,7 @@
 	top: 4207px;
 	overflow: visible;
 }
-#Pro4_Poster_bb {
+#Pro4_Poster13 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -240,7 +240,7 @@
 	top: 4207px;
 	overflow: visible;
 }
-#Pro4_Frame {
+#Pro4_Frame12 {
 	position: absolute;
 	width: 1542px;
 	height: 1157px;
@@ -256,7 +256,7 @@
 	top: 9916px;
 	overflow: visible;
 }
-#Pro4_Frame_ {
+#Pro4_Frame11 {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -264,7 +264,7 @@
 	top: 11058px;
 	overflow: visible;
 }
-#Pro4_Frame_ba {
+#Pro4_Frame10 {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -272,7 +272,7 @@
 	top: 11058px;
 	overflow: visible;
 }
-#Pro4_Frame_bb {
+#Pro4_Frame09 {
 	position: absolute;
 	width: 1640px;
 	height: 1094px;
@@ -291,7 +291,7 @@
 	left: 140px;
 	top: 5521px;
 }
-#n_1 {
+#booklet2 {
 	position: absolute;
 	width: 1522px;
 	height: 297px;
@@ -299,7 +299,7 @@
 	top: 5683px;
 	overflow: visible;
 }
-#n_2 {
+#booklet1 {
 	position: absolute;
 	width: 1522px;
 	height: 299px;
@@ -326,7 +326,7 @@
 	left: 140px;
 	top: 12010px;
 }
-#Pro4_Frame_bg {
+#Pro4_Frame08 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -334,7 +334,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bh {
+#Pro4_Frame07 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -342,7 +342,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bi {
+#Pro4_Frame06 {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -350,7 +350,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bj {
+#Pro4_Frame05 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -358,7 +358,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#Pro4_Frame_bk {
+#Pro4_Frame04 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -366,53 +366,7 @@
 	top: 12165px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 16332px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#n_1_bm {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 16205px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 16205px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 16205px;
-	overflow: visible;
-}
-#n_2_bp {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 16205px;
-	overflow: visible;
-}
-#Header_Hover_bq {
+#Header_Hover {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -424,7 +378,7 @@
 	--web-action-target: Project_See_through_eyes_of_an_animal.html;
 	cursor: pointer;
 }
-#Header_Works_br {
+#Header_Works_bm {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -439,7 +393,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bs {
+#Header_Hover_bn {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -451,7 +405,7 @@
 	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
-#Header_Works_bt {
+#Header_Works_bo {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -466,7 +420,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Pro4_Frame_bu {
+#Pro4_Frame03 {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -474,7 +428,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_bv {
+#Pro4_Frame02 {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -482,7 +436,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_bw {
+#Pro4_Frame01 {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -505,7 +459,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works {
+#Works_Hover {
 	left: 1323px;
 	top: 71px;
 	position: absolute;
@@ -542,7 +496,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_b {
+#Quote_KNOWING_bv {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -603,4 +557,50 @@
 	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 16332px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 16175px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 16175px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 16175px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 16175px;
+	overflow: visible;
 }

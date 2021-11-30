@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -76,7 +76,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -103,7 +103,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_u {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -256,7 +256,7 @@
 	left: 140px;
 	top: 9727px;
 }
-#Pro1_Frame1 {
+#Pro1_Frame05 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -264,7 +264,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_ {
+#Pro1_Frame04 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -272,7 +272,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_ba {
+#Pro1_Frame03 {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -280,7 +280,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_bb {
+#Pro1_Frame02 {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -288,7 +288,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#Pro1_Frame1_bc {
+#Pro1_Frame01 {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -296,53 +296,7 @@
 	top: 9882px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 12542px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#n_1 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 12415px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 12415px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 12415px;
-	overflow: visible;
-}
-#n_2 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 12415px;
-	overflow: visible;
-}
-#Header_Hover_bi {
+#Header_Hover {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -350,7 +304,7 @@
 	top: 12105px;
 	overflow: visible;
 }
-#Header_Works_bj {
+#Header_Works_be {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -404,7 +358,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works {
+#Works_Hover {
 	left: 1323px;
 	top: 71px;
 	position: absolute;
@@ -441,7 +395,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bq {
+#Quote_KNOWING_bl {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -489,7 +443,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Header_Hover_bt {
+#Header_Hover_bo {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -501,7 +455,7 @@
 	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
-#Header_Works_bu {
+#Header_Works_bp {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -529,4 +483,50 @@
 	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 12540px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 12383px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 12383px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 12383px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 12383px;
+	overflow: visible;
 }

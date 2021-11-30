@@ -74,7 +74,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -101,7 +101,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_u {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -128,7 +128,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_w {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -155,7 +155,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works {
+#Works_Hover {
 	left: 1323px;
 	top: 71px;
 	position: absolute;
@@ -357,7 +357,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#n_1 {
+#Linkedin {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -365,7 +365,7 @@
 	top: 4318px;
 	overflow: visible;
 }
-#n_4 {
+#Facebook {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -373,7 +373,7 @@
 	top: 4318px;
 	overflow: visible;
 }
-#n_3 {
+#Instagram {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -381,7 +381,7 @@
 	top: 4318px;
 	overflow: visible;
 }
-#n_2 {
+#Pinterest {
 	position: absolute;
 	width: 48px;
 	height: 48px;

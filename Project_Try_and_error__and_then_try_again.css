@@ -68,7 +68,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover {
+#Portfolio_Hover {
 	position: absolute;
 	width: 91px;
 	height: 29px;
@@ -95,7 +95,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_t {
+#About_Hover {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -122,7 +122,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_v {
+#Resume_Hover {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -208,7 +208,7 @@
 	top: 774px;
 	overflow: visible;
 }
-#Pro6_Frame {
+#Pro6_Frame22 {
 	position: absolute;
 	width: 1640px;
 	height: 1148px;
@@ -216,7 +216,7 @@
 	top: 3009px;
 	overflow: visible;
 }
-#Pro6_Frame_ {
+#Pro6_Frame21 {
 	position: absolute;
 	width: 1640px;
 	height: 1069px;
@@ -224,7 +224,7 @@
 	top: 5259px;
 	overflow: visible;
 }
-#Pro6_Frame_ba {
+#Pro6_Frame20 {
 	position: absolute;
 	width: 812px;
 	height: 749px;
@@ -232,7 +232,7 @@
 	top: 4464px;
 	overflow: visible;
 }
-#Pro6_Frame_bb {
+#Pro6_Frame19 {
 	position: absolute;
 	width: 812px;
 	height: 749px;
@@ -240,53 +240,7 @@
 	top: 4464px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 14616px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#n_1 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 14489px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 14489px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 14489px;
-	overflow: visible;
-}
-#n_2 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 14489px;
-	overflow: visible;
-}
-#Header_Hover_ba {
+#Header_Hover {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -298,7 +252,7 @@
 	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
-#Header_Works_bb {
+#Header_Works_ {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -313,7 +267,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bc {
+#Header_Hover_ {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -325,7 +279,7 @@
 	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#Header_Works_bd {
+#Header_Works_ba {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -354,7 +308,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Pro6_Frame_bf {
+#Pro6_Frame18 {
 	position: absolute;
 	width: 409px;
 	height: 378px;
@@ -362,7 +316,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bg {
+#Pro6_Frame17 {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -370,7 +324,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bh {
+#Pro6_Frame16 {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -378,7 +332,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bi {
+#Pro6_Frame15 {
 	position: absolute;
 	width: 409px;
 	height: 377px;
@@ -386,7 +340,7 @@
 	top: 7063px;
 	overflow: visible;
 }
-#Pro6_Frame_bj {
+#Pro6_Frame14 {
 	position: absolute;
 	width: 408px;
 	height: 377px;
@@ -394,7 +348,7 @@
 	top: 7063px;
 	overflow: visible;
 }
-#Pro6_Frame_bk {
+#Pro6_Frame13 {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -402,7 +356,7 @@
 	top: 7062px;
 	overflow: visible;
 }
-#Pro6_Frame_bl {
+#Pro6_Frame12 {
 	position: absolute;
 	width: 409px;
 	height: 376px;
@@ -410,7 +364,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bm {
+#Pro6_Frame11 {
 	position: absolute;
 	width: 410px;
 	height: 376px;
@@ -418,7 +372,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bn {
+#Pro6_Frame10 {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -426,7 +380,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bo {
+#Pro6_Frame09 {
 	position: absolute;
 	width: 1640px;
 	height: 1069px;
@@ -434,7 +388,7 @@
 	top: 8182px;
 	overflow: visible;
 }
-#Pro6_Frame_bp {
+#Pro6_Frame08 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -442,7 +396,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_bq {
+#Pro6_Frame07 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -450,7 +404,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_br {
+#Pro6_Frame06 {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -458,7 +412,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_bs {
+#Pro6_Frame05 {
 	position: absolute;
 	width: 1640px;
 	height: 1236px;
@@ -477,7 +431,7 @@
 	left: 140px;
 	top: 12256px;
 }
-#Pro6_Frame_bu {
+#Pro6_Frame04 {
 	position: absolute;
 	width: 1368px;
 	height: 886px;
@@ -485,7 +439,7 @@
 	top: 12366px;
 	overflow: visible;
 }
-#Pro6_Frame_bv {
+#Pro6_Frame03 {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -493,7 +447,7 @@
 	top: 13490px;
 	overflow: visible;
 }
-#Pro6_Frame_bw {
+#Pro6_Frame02 {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -501,7 +455,7 @@
 	top: 13490px;
 	overflow: visible;
 }
-#Pro6_Frame_bx {
+#Pro6_Frame01 {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -524,7 +478,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works {
+#Works_Hover {
 	left: 1323px;
 	top: 71px;
 	position: absolute;
@@ -561,7 +515,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_b {
+#Quote_KNOWING_bw {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -589,4 +543,50 @@
 	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 14618px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 14461px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 14461px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 14461px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 14461px;
+	overflow: visible;
 }
