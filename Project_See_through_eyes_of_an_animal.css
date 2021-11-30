@@ -181,7 +181,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#see_through_eyes_of_an_animal_ {
+#C001 {
 	position: absolute;
 	width: 1920px;
 	height: 1191px;
@@ -341,7 +341,7 @@
 }
 #Header_Hover {
 	position: absolute;
-	width: 128px;
+	width: 152px;
 	height: 24px;
 	left: 140px;
 	top: 9377px;
@@ -356,7 +356,7 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 129px;
+	width: 153px;
 	white-space: nowrap;
 	text-align: right;
 	font-family: Garamond Premier Pro;
