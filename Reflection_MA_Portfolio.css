@@ -317,22 +317,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Portfolio {
-	left: 1436px;
-	top: 71px;
-	position: absolute;
-	overflow: visible;
-	width: 94px;
-	height: 30px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Quote_KNOWING_bb {
+#Quote_KNOWING_ba {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -365,11 +350,34 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_4_bd {
+#n_4_bc {
 	position: absolute;
 	width: 1920px;
 	height: 1208px;
 	left: 0px;
 	top: 772px;
 	overflow: visible;
+}
+#Header_Hover_bd {
+	position: absolute;
+	width: 91px;
+	height: 29px;
+	left: 1437px;
+	top: 71px;
+	overflow: visible;
+}
+#Header_Works_be {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }
