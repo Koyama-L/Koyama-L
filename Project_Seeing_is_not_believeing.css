@@ -277,9 +277,9 @@
 }
 #Header_Hover_ba {
 	position: absolute;
-	width: 152px;
+	width: 95px;
 	height: 24px;
-	left: 140px;
+	left: 1685px;
 	top: 18345px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
@@ -288,33 +288,6 @@
 	cursor: pointer;
 }
 #Header_Works_bb {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 153px;
-	white-space: nowrap;
-	text-align: right;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Header_Hover_bc {
-	position: absolute;
-	width: 95px;
-	height: 24px;
-	left: 1685px;
-	top: 18345px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Rethink__redo__redesign.html;
-	cursor: pointer;
-}
-#Header_Works_bd {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -329,7 +302,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Pro3_Frame_be {
+#Pro3_Frame_bc {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -337,7 +310,7 @@
 	top: 6812px;
 	overflow: visible;
 }
-#Pro3_Frame_bf {
+#Pro3_Frame_bd {
 	position: absolute;
 	width: 449px;
 	height: 728px;
@@ -356,7 +329,7 @@
 	left: 140px;
 	top: 7771px;
 }
-#Pro3_Frame_bh {
+#Pro3_Frame_bf {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -364,7 +337,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bi {
+#Pro3_Frame_bg {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -372,7 +345,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bj {
+#Pro3_Frame_bh {
 	position: absolute;
 	width: 299px;
 	height: 482px;
@@ -380,7 +353,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bk {
+#Pro3_Frame_bi {
 	position: absolute;
 	width: 297px;
 	height: 479px;
@@ -388,7 +361,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bl {
+#Pro3_Frame_bj {
 	position: absolute;
 	width: 298px;
 	height: 480px;
@@ -396,7 +369,7 @@
 	top: 7926px;
 	overflow: visible;
 }
-#Pro3_Frame_bm {
+#Pro3_Frame_bk {
 	position: absolute;
 	width: 1640px;
 	height: 1148px;
@@ -404,7 +377,7 @@
 	top: 4329px;
 	overflow: visible;
 }
-#Pro3_Frame_bn {
+#Pro3_Frame_bl {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -412,7 +385,7 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bo {
+#Pro3_Frame_bm {
 	position: absolute;
 	width: 552px;
 	height: 418px;
@@ -420,7 +393,7 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bp {
+#Pro3_Frame_bn {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -428,11 +401,27 @@
 	top: 10417px;
 	overflow: visible;
 }
-#Pro3_Frame_bq {
+#Pro3_Frame_bo {
 	position: absolute;
 	width: 536px;
 	height: 288px;
 	left: 140px;
+	top: 12516px;
+	overflow: visible;
+}
+#Pro3_Frame_bp {
+	position: absolute;
+	width: 536px;
+	height: 288px;
+	left: 692px;
+	top: 12516px;
+	overflow: visible;
+}
+#Pro3_Frame_bq {
+	position: absolute;
+	width: 536px;
+	height: 288px;
+	left: 1244px;
 	top: 12516px;
 	overflow: visible;
 }
@@ -440,23 +429,23 @@
 	position: absolute;
 	width: 536px;
 	height: 288px;
-	left: 692px;
-	top: 12516px;
+	left: 140px;
+	top: 12945px;
 	overflow: visible;
 }
 #Pro3_Frame_bs {
 	position: absolute;
 	width: 536px;
 	height: 288px;
-	left: 1244px;
-	top: 12516px;
+	left: 692px;
+	top: 12945px;
 	overflow: visible;
 }
 #Pro3_Frame_bt {
 	position: absolute;
 	width: 536px;
 	height: 288px;
-	left: 140px;
+	left: 1244px;
 	top: 12945px;
 	overflow: visible;
 }
@@ -464,35 +453,19 @@
 	position: absolute;
 	width: 536px;
 	height: 288px;
-	left: 692px;
-	top: 12945px;
+	left: 140px;
+	top: 13374px;
 	overflow: visible;
 }
 #Pro3_Frame_bv {
 	position: absolute;
 	width: 536px;
 	height: 288px;
-	left: 1244px;
-	top: 12945px;
-	overflow: visible;
-}
-#Pro3_Frame_bw {
-	position: absolute;
-	width: 536px;
-	height: 288px;
-	left: 140px;
-	top: 13374px;
-	overflow: visible;
-}
-#Pro3_Frame_bx {
-	position: absolute;
-	width: 536px;
-	height: 288px;
 	left: 692px;
 	top: 13374px;
 	overflow: visible;
 }
-#Pro3_Frame_by {
+#Pro3_Frame_bw {
 	position: absolute;
 	width: 536px;
 	height: 288px;
@@ -508,7 +481,7 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_b {
+#Pro3_Book_by {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -516,7 +489,7 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_ca {
+#Pro3_Book_bz {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -524,11 +497,27 @@
 	top: 15392px;
 	overflow: visible;
 }
-#Pro3_Book_cb {
+#Pro3_Book_b {
 	position: absolute;
 	width: 398px;
 	height: 297px;
 	left: 278px;
+	top: 15775px;
+	overflow: visible;
+}
+#Pro3_Book_ca {
+	position: absolute;
+	width: 398px;
+	height: 297px;
+	left: 761px;
+	top: 15775px;
+	overflow: visible;
+}
+#Pro3_Book_cb {
+	position: absolute;
+	width: 398px;
+	height: 297px;
+	left: 1244px;
 	top: 15775px;
 	overflow: visible;
 }
@@ -536,35 +525,19 @@
 	position: absolute;
 	width: 398px;
 	height: 297px;
-	left: 761px;
-	top: 15775px;
+	left: 278px;
+	top: 16158px;
 	overflow: visible;
 }
 #Pro3_Book_cd {
 	position: absolute;
 	width: 398px;
 	height: 297px;
-	left: 1244px;
-	top: 15775px;
-	overflow: visible;
-}
-#Pro3_Book_ce {
-	position: absolute;
-	width: 398px;
-	height: 297px;
-	left: 278px;
-	top: 16158px;
-	overflow: visible;
-}
-#Pro3_Book_cf {
-	position: absolute;
-	width: 398px;
-	height: 297px;
 	left: 761px;
 	top: 16158px;
 	overflow: visible;
 }
-#Pro3_Book_cg {
+#Pro3_Book_ce {
 	position: absolute;
 	width: 398px;
 	height: 297px;
@@ -583,7 +556,7 @@
 	left: 140px;
 	top: 16762px;
 }
-#Pro3_Book_ch {
+#Pro3_Book_cf {
 	position: absolute;
 	width: 1364px;
 	height: 1015px;
@@ -599,35 +572,7 @@
 	top: 13912px;
 	overflow: visible;
 }
-#Unlock_the_future_with_the_pow {
-	left: 140px;
-	top: 18379px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Rethink_redo_redesign {
-	left: 1382px;
-	top: 18379px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: right;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Pro3_Frame_cd {
+#Pro3_Frame_b {
 	position: absolute;
 	width: 1545px;
 	height: 831px;
@@ -687,7 +632,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_ch {
+#Quote_KNOWING_cd {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -720,4 +665,18 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Unlock_the_future_with_the_poe {
+	left: 1382px;
+	top: 18379px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: right;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }

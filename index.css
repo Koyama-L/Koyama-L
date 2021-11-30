@@ -16,7 +16,7 @@
 #index {
 	position: absolute;
 	width: 1920px;
-	height: 5217px;
+	height: 4654px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: index;
@@ -34,17 +34,9 @@
 	}
 
 }
-#My_Pic {
-	position: absolute;
-	width: 1928px;
-	height: 1080px;
-	left: -4px;
-	top: -62px;
-	overflow: visible;
-}
 #Quote_KNOWING {
-	left: 834px;
-	top: 423px;
+	left: 140px;
+	top: 298px;
 	position: absolute;
 	overflow: visible;
 	width: 599px;
@@ -54,69 +46,15 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 60px;
-	color: rgba(255,255,255,1);
-	letter-spacing: 0.5px;
-}
-#Pro4 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 278px;
-	top: 2699px;
-	overflow: visible;
-}
-#Pro5 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 278px;
-	top: 2012px;
-	overflow: visible;
-}
-#Pro3 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 968px;
-	top: 1323px;
-	overflow: visible;
-}
-#Pro1 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 278px;
-	top: 1323px;
-	overflow: visible;
-}
-#Pro6 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 968px;
-	top: 2699px;
-	overflow: visible;
-}
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 5037px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
 	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }
 #Arrow_Hover {
 	position: absolute;
 	width: 61px;
 	height: 63px;
-	left: 1447px;
-	top: 739px;
+	left: 952px;
+	top: 614px;
 	overflow: visible;
 }
 #Text {
@@ -133,7 +71,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 60px;
-	color: rgba(255,255,255,1);
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
 #Header_Hover {
@@ -163,7 +101,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_ {
+#Header_Hover_u {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -175,7 +113,7 @@
 	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
-#Header_Works_ {
+#Header_Works_v {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -190,7 +128,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_ba {
+#Header_Hover_w {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -202,7 +140,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_ba {
+#Header_Works_x {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -216,176 +154,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#Hover_1 {
-	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 968px;
-	top: 1323px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
-	cursor: pointer;
-}
-#Rectangle_2 {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2 {
-	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
-	left: 0px;
-	top: 0px;
-}
-#Hover_1_ {
-	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 277px;
-	top: 2699px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_See_through_eyes_of_an_animal.html;
-	cursor: pointer;
-}
-#Rectangle_2_ {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_ {
-	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
-	left: 0px;
-	top: 0px;
-}
-#Hover_1_ba {
-	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 277px;
-	top: 2011px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Seeing_is_not_believeing.html;
-	cursor: pointer;
-}
-#Rectangle_2_ba {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_ba {
-	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
-	left: 0px;
-	top: 0px;
-}
-#Hover_1_bb {
-	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 968px;
-	top: 2699px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Try_and_error__and_then_try_again.html;
-	cursor: pointer;
-}
-#Rectangle_2_bc {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_bc {
-	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
-	left: 0px;
-	top: 0px;
-}
-#n_1 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 4910px;
-	overflow: visible;
-}
-#n_4 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1141px;
-	top: 4910px;
-	overflow: visible;
-}
-#n_3 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 4910px;
-	overflow: visible;
-}
-#n_2 {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 4910px;
-	overflow: visible;
-}
-#Quote_KNOWING_bh {
-	left: 278px;
-	top: 1238px;
-	position: absolute;
-	overflow: visible;
-	width: 272px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 60px;
-	color: rgba(255,255,255,1);
-	letter-spacing: 0.5px;
-}
-#Pro2 {
-	position: absolute;
-	width: 674px;
-	height: 674px;
-	left: 968px;
-	top: 2012px;
-	overflow: visible;
-}
-#Hover_2 {
-	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 968px;
-	top: 2011px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Rethink__redo__redesign.html;
-	cursor: pointer;
-}
-#Rectangle_2_bk {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_bk {
-	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
-	left: 0px;
-	top: 0px;
 }
 #Works {
 	left: 1323px;
@@ -420,52 +188,6 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bn {
-	left: 278px;
-	top: 3625px;
-	position: absolute;
-	overflow: visible;
-	width: 258px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 60px;
-	color: rgba(255,255,255,1);
-	letter-spacing: 0.5px;
-}
-#n_4_bo {
-	position: absolute;
-	width: 1364px;
-	height: 859px;
-	left: 278px;
-	top: 3710px;
-	overflow: visible;
-}
-#Hover_1_bp {
-	position: absolute;
-	width: 1365px;
-	height: 859px;
-	left: 278px;
-	top: 3710px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Reflection_MA_Portfolio.html;
-	cursor: pointer;
-}
-#Rectangle_2_bq {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_bq {
-	position: absolute;
-	overflow: visible;
-	width: 1365px;
-	height: 859px;
-	left: 0px;
-	top: 0px;
-}
 #Header_MENGYANG_ {
 	left: 140px;
 	top: 59px;
@@ -481,26 +203,189 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Hover_1_bs {
+#heading03 {
 	position: absolute;
-	width: 675px;
-	height: 675px;
-	left: 278px;
-	top: 1323px;
+	width: 812px;
+	height: 673px;
+	left: 140px;
+	top: 1461px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_See_through_eyes_of_an_animal.html;
+	cursor: pointer;
+}
+#heading03_ {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#headingportfolio {
+	position: absolute;
+	width: 1640px;
+	height: 1082px;
+	left: 140px;
+	top: 2145px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Reflection_MA_Portfolio.html;
+	cursor: pointer;
+}
+#headingportfolio_ {
+	position: absolute;
+	width: 1640px;
+	height: 1082px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 140px;
+	top: 4475px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#heading06 {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 968px;
+	top: 3238px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Try_and_error__and_then_try_again.html;
+	cursor: pointer;
+}
+#heading06_ {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#heading04 {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 968px;
+	top: 1461px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Rethink__redo__redesign.html;
+	cursor: pointer;
+}
+#heading04_ {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#heading05 {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 140px;
+	top: 3238px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
 	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
-#Rectangle_2_bt {
-	fill: rgba(255,255,255,0);
-}
-.Rectangle_2_bt {
+#heading05_bb {
 	position: absolute;
-	overflow: visible;
-	width: 675px;
-	height: 675px;
+	width: 812px;
+	height: 673px;
 	left: 0px;
 	top: 0px;
+	overflow: visible;
+}
+#heading02 {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 968px;
+	top: 777px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
+	cursor: pointer;
+}
+#heading02_bd {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#heading01 {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 140px;
+	top: 777px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Seeing_is_not_believeing.html;
+	cursor: pointer;
+}
+#heading01_bf {
+	position: absolute;
+	width: 812px;
+	height: 673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 729px;
+	top: 4318px;
+	overflow: visible;
+}
+#n_4 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1143px;
+	top: 4318px;
+	overflow: visible;
+}
+#n_3 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1005px;
+	top: 4318px;
+	overflow: visible;
+}
+#n_2 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 867px;
+	top: 4318px;
+	overflow: visible;
 }

@@ -387,14 +387,14 @@
 }
 #Header_Hover_bm {
 	position: absolute;
-	width: 152px;
+	width: 128px;
 	height: 24px;
 	left: 140px;
 	top: 9632px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_Rethink__redo__redesign.html;
+	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
 	cursor: pointer;
 }
 #Header_Works_bn {
@@ -402,7 +402,7 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 153px;
+	width: 129px;
 	white-space: nowrap;
 	text-align: right;
 	font-family: Garamond Premier Pro;
@@ -421,7 +421,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_Try_and_error__and_then_try_again.html;
+	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
 #Header_Works_bp {
@@ -438,34 +438,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#Rethink_redo_redesign {
-	left: 140px;
-	top: 9666px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Try_and_error_and_then_try_aga {
-	left: 1382px;
-	top: 9666px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: right;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
 }
 #BACK_TO_TOP {
 	left: 801px;
@@ -519,7 +491,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bv {
+#Quote_KNOWING_bt {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -552,4 +524,32 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Unlock_the_future_with_the_poe {
+	left: 140px;
+	top: 9666px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Rethink_redo_redesign {
+	left: 1382px;
+	top: 9666px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: right;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }

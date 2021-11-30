@@ -295,7 +295,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_See_through_eyes_of_an_animal.html;
+	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
 #Header_Works_bb {
@@ -340,20 +340,6 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#See_through_eyes_of_an_animal {
-	left: 140px;
-	top: 14213px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
 #Reflection_MA_portfolio {
 	left: 1382px;
 	top: 14213px;
@@ -368,7 +354,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Pro6_Frame_bg {
+#Pro6_Frame_bf {
 	position: absolute;
 	width: 409px;
 	height: 378px;
@@ -376,7 +362,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bh {
+#Pro6_Frame_bg {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -384,7 +370,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bi {
+#Pro6_Frame_bh {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -392,7 +378,7 @@
 	top: 6629px;
 	overflow: visible;
 }
-#Pro6_Frame_bj {
+#Pro6_Frame_bi {
 	position: absolute;
 	width: 409px;
 	height: 377px;
@@ -400,7 +386,7 @@
 	top: 7063px;
 	overflow: visible;
 }
-#Pro6_Frame_bk {
+#Pro6_Frame_bj {
 	position: absolute;
 	width: 408px;
 	height: 377px;
@@ -408,7 +394,7 @@
 	top: 7063px;
 	overflow: visible;
 }
-#Pro6_Frame_bl {
+#Pro6_Frame_bk {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -416,7 +402,7 @@
 	top: 7062px;
 	overflow: visible;
 }
-#Pro6_Frame_bm {
+#Pro6_Frame_bl {
 	position: absolute;
 	width: 409px;
 	height: 376px;
@@ -424,7 +410,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bn {
+#Pro6_Frame_bm {
 	position: absolute;
 	width: 410px;
 	height: 376px;
@@ -432,7 +418,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bo {
+#Pro6_Frame_bn {
 	position: absolute;
 	width: 410px;
 	height: 378px;
@@ -440,7 +426,7 @@
 	top: 7497px;
 	overflow: visible;
 }
-#Pro6_Frame_bp {
+#Pro6_Frame_bo {
 	position: absolute;
 	width: 1640px;
 	height: 1069px;
@@ -448,7 +434,7 @@
 	top: 8182px;
 	overflow: visible;
 }
-#Pro6_Frame_bq {
+#Pro6_Frame_bp {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -456,7 +442,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_br {
+#Pro6_Frame_bq {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -464,7 +450,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_bs {
+#Pro6_Frame_br {
 	position: absolute;
 	width: 708px;
 	height: 1108px;
@@ -472,7 +458,7 @@
 	top: 9442px;
 	overflow: visible;
 }
-#Pro6_Frame_bt {
+#Pro6_Frame_bs {
 	position: absolute;
 	width: 1640px;
 	height: 1236px;
@@ -491,7 +477,7 @@
 	left: 140px;
 	top: 12256px;
 }
-#Pro6_Frame_bv {
+#Pro6_Frame_bu {
 	position: absolute;
 	width: 1368px;
 	height: 886px;
@@ -499,7 +485,7 @@
 	top: 12366px;
 	overflow: visible;
 }
-#Pro6_Frame_bw {
+#Pro6_Frame_bv {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -507,7 +493,7 @@
 	top: 13490px;
 	overflow: visible;
 }
-#Pro6_Frame_bx {
+#Pro6_Frame_bw {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -515,7 +501,7 @@
 	top: 13490px;
 	overflow: visible;
 }
-#Pro6_Frame_by {
+#Pro6_Frame_bx {
 	position: absolute;
 	width: 536px;
 	height: 348px;
@@ -589,4 +575,18 @@
 	font-size: 60px;
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
+}
+#Be_your_own_wildlfe_photograph {
+	left: 140px;
+	top: 14213px;
+	position: absolute;
+	overflow: visible;
+	width: 306px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }

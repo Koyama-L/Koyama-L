@@ -349,10 +349,6 @@
 	left: 1685px;
 	top: 12105px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
-	cursor: pointer;
 }
 #Header_Works_bj {
 	left: 0px;
@@ -368,20 +364,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#Unlock_the_future_with_the_poe {
-	left: 1382px;
-	top: 12139px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: right;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
 }
 #Pro1_Land3 {
 	position: absolute;
@@ -459,7 +441,7 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_br {
+#Quote_KNOWING_bq {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -492,4 +474,59 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Try_and_error_and_then_try_aga {
+	left: 1443px;
+	top: 12139px;
+	position: absolute;
+	overflow: visible;
+	width: 338px;
+	height: 26px;
+	text-align: right;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Header_Hover_bt {
+	position: absolute;
+	width: 152px;
+	height: 24px;
+	left: 140px;
+	top: 12105px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Rethink__redo__redesign.html;
+	cursor: pointer;
+}
+#Header_Works_bu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Unlock_the_future_with_the_pow {
+	left: 140px;
+	top: 12139px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }

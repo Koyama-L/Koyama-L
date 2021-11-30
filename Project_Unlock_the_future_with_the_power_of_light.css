@@ -319,7 +319,7 @@
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 9104px;
+	top: 9108px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -372,7 +372,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
+	--web-action-target: Project_Seeing_is_not_believeing.html;
 	cursor: pointer;
 }
 #Header_Works_bj {
@@ -397,10 +397,6 @@
 	left: 1685px;
 	top: 8643px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Seeing_is_not_believeing.html;
-	cursor: pointer;
 }
 #Header_Works_bl {
 	left: 0px;
@@ -416,34 +412,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#Be_your_own_wildlfe_photograph {
-	left: 140px;
-	top: 8701px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Seeing_is_not_believeing {
-	left: 1382px;
-	top: 8701px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: right;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
 }
 #Rectangle_18 {
 	fill: rgba(222,222,222,1);
@@ -467,7 +435,7 @@
 	left: 968px;
 	top: 4464px;
 }
-#Pro2_Book_bq {
+#Pro2_Book_bo {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	width: 719px;
@@ -476,7 +444,7 @@
 	top: 4555px;
 	overflow: visible;
 }
-#Pro2_Book_br {
+#Pro2_Book_bp {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
 	position: absolute;
 	width: 719px;
@@ -537,7 +505,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Quote_KNOWING_bv {
+#Quote_KNOWING_bt {
 	left: 416px;
 	top: 447px;
 	position: absolute;
@@ -570,4 +538,32 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#Seeing_is_not_believeing {
+	left: 140px;
+	top: 8701px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#See_through_eyes_of_an_animal {
+	left: 1382px;
+	top: 8701px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: right;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }

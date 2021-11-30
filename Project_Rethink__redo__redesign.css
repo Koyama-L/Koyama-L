@@ -421,7 +421,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_Seeing_is_not_believeing.html;
+	--web-action-target: Project_See_through_eyes_of_an_animal.html;
 	cursor: pointer;
 }
 #Header_Works_br {
@@ -448,7 +448,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_See_through_eyes_of_an_animal.html;
+	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
 #Header_Works_bt {
@@ -466,35 +466,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Seeing_is_not_believeing {
-	left: 140px;
-	top: 15929px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#See_through_eyes_of_an_animal {
-	left: 1382px;
-	top: 15929px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 26px;
-	text-align: right;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Pro4_Frame_bw {
+#Pro4_Frame_bu {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -502,7 +474,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_bx {
+#Pro4_Frame_bv {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -510,7 +482,7 @@
 	top: 9200px;
 	overflow: visible;
 }
-#Pro4_Frame_by {
+#Pro4_Frame_bw {
 	position: absolute;
 	width: 536px;
 	height: 406px;
@@ -603,4 +575,32 @@
 	font-size: 35px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
+}
+#See_through_eyes_of_an_animal {
+	left: 140px;
+	top: 15942px;
+	position: absolute;
+	overflow: visible;
+	width: 399px;
+	height: 26px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Be_your_own_wildlfe_photograph {
+	left: 1475px;
+	top: 15929px;
+	position: absolute;
+	overflow: visible;
+	width: 306px;
+	height: 26px;
+	text-align: right;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
 }
