@@ -16,7 +16,7 @@
 #Resume {
 	position: absolute;
 	width: 1920px;
-	height: 2793px;
+	height: 2426px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Resume;
@@ -220,17 +220,41 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Group_1 {
+#Linkedin {
 	position: absolute;
-	width: 1640px;
-	height: 337px;
-	left: 140px;
-	top: 2456px;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 2183px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 2183px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 2183px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 2183px;
 	overflow: visible;
 }
 #n_2021_by_MengYang_Lee__All_Ri {
-	left: 0px;
-	top: 157px;
+	left: 140px;
+	top: 2247px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -241,36 +265,4 @@
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
-}
-#Linkedin {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 589px;
-	top: 0px;
-	overflow: visible;
-}
-#Facebook {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1003px;
-	top: 0px;
-	overflow: visible;
-}
-#Instagram {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 865px;
-	top: 0px;
-	overflow: visible;
-}
-#Pinterest {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 727px;
-	top: 0px;
-	overflow: visible;
 }

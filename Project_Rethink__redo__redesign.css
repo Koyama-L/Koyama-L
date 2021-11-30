@@ -16,7 +16,7 @@
 #Project_Rethink_redo_redesign {
 	position: absolute;
 	width: 1920px;
-	height: 16512px;
+	height: 16043px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Project_Rethink, redo, redesign;
@@ -371,7 +371,7 @@
 	width: 152px;
 	height: 24px;
 	left: 140px;
-	top: 15895px;
+	top: 15631px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -398,7 +398,7 @@
 	width: 95px;
 	height: 24px;
 	left: 1685px;
-	top: 15895px;
+	top: 15631px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -446,7 +446,7 @@
 }
 #BACK_TO_TOP {
 	left: 801px;
-	top: 15895px;
+	top: 15631px;
 	position: absolute;
 	overflow: visible;
 	width: 320px;
@@ -532,7 +532,7 @@
 }
 #See_through_eyes_of_an_animal {
 	left: 140px;
-	top: 15942px;
+	top: 15678px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -546,7 +546,7 @@
 }
 #Be_your_own_wildlfe_photograph {
 	left: 1475px;
-	top: 15929px;
+	top: 15665px;
 	position: absolute;
 	overflow: visible;
 	width: 306px;
@@ -560,7 +560,7 @@
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 16332px;
+	top: 15863px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -574,33 +574,69 @@
 }
 #Linkedin {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 729px;
-	top: 16175px;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 15799px;
 	overflow: visible;
 }
 #Facebook {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1143px;
-	top: 16175px;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 15799px;
 	overflow: visible;
 }
 #Instagram {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1005px;
-	top: 16175px;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 15799px;
 	overflow: visible;
 }
 #Pinterest {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 867px;
-	top: 16175px;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 15799px;
 	overflow: visible;
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140px;
+	top: 15604px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140px;
+	top: 15730px;
+	transform: matrix(1,0,0,1,0,0);
 }

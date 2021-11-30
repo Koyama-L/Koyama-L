@@ -16,7 +16,7 @@
 #index {
 	position: absolute;
 	width: 1920px;
-	height: 4654px;
+	height: 4262px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: index;
@@ -235,27 +235,13 @@
 	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#headingportfolio_ {
+#Pro6 {
 	position: absolute;
 	width: 1640px;
 	height: 1082px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
-}
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 4475px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
 }
 #heading06 {
 	position: absolute;
@@ -269,7 +255,7 @@
 	--web-action-target: Project_Try_and_error__and_then_try_again.html;
 	cursor: pointer;
 }
-#heading06_ {
+#Pro6_HeadingPhoto {
 	position: absolute;
 	width: 812px;
 	height: 673px;
@@ -289,7 +275,7 @@
 	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
-#heading04_ {
+#n_2 {
 	position: absolute;
 	width: 812px;
 	height: 673px;
@@ -309,7 +295,7 @@
 	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
-#heading05_bb {
+#Pro3_HeadingPhoto {
 	position: absolute;
 	width: 812px;
 	height: 673px;
@@ -329,7 +315,7 @@
 	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
 	cursor: pointer;
 }
-#heading02_bd {
+#Pro2_HeadingPhoto {
 	position: absolute;
 	width: 812px;
 	height: 673px;
@@ -349,7 +335,7 @@
 	--web-action-target: Project_Seeing_is_not_believeing.html;
 	cursor: pointer;
 }
-#heading01_bf {
+#Landing_Photo {
 	position: absolute;
 	width: 812px;
 	height: 673px;
@@ -357,35 +343,57 @@
 	top: 0px;
 	overflow: visible;
 }
+#Group_2 {
+	position: absolute;
+	width: 1640px;
+	height: 244px;
+	left: 140px;
+	top: 4020px;
+	overflow: visible;
+}
+#n_2021_by_MengYang_Lee__All_Ri {
+	left: 0px;
+	top: 64px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
 #Linkedin {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 729px;
-	top: 4318px;
+	width: 31px;
+	height: 31px;
+	left: 671px;
+	top: 0px;
 	overflow: visible;
 }
 #Facebook {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1143px;
-	top: 4318px;
+	width: 31px;
+	height: 31px;
+	left: 939px;
+	top: 0px;
 	overflow: visible;
 }
 #Instagram {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1005px;
-	top: 4318px;
+	width: 31px;
+	height: 31px;
+	left: 850px;
+	top: 0px;
 	overflow: visible;
 }
 #Pinterest {
 	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 867px;
-	top: 4318px;
+	width: 31px;
+	height: 31px;
+	left: 760px;
+	top: 0px;
 	overflow: visible;
 }

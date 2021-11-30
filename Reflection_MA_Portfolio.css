@@ -16,7 +16,7 @@
 #Reflection_MA_Portfolio {
 	position: absolute;
 	width: 1920px;
-	height: 3960px;
+	height: 3460px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Reflection_MA_Portfolio;
@@ -205,7 +205,7 @@
 	width: 152px;
 	height: 24px;
 	left: 140px;
-	top: 3341px;
+	top: 3047px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -229,7 +229,7 @@
 }
 #Try_and_error_and_then_try_aga {
 	left: 140px;
-	top: 3375px;
+	top: 3081px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -243,7 +243,7 @@
 }
 #BACK_TO_TOP {
 	left: 801px;
-	top: 3341px;
+	top: 3047px;
 	position: absolute;
 	overflow: visible;
 	width: 320px;
@@ -335,9 +335,77 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
+#Linkedin {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 3213px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 3213px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 3213px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 3213px;
+	overflow: visible;
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140px;
+	top: 3018px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1640px;
+	height: 1px;
+	left: 140px;
+	top: 3144px;
+	transform: matrix(1,0,0,1,0,0);
+}
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 3780px;
+	top: 3277px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -348,36 +416,4 @@
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
-}
-#Linkedin {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 729px;
-	top: 3623px;
-	overflow: visible;
-}
-#Facebook {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1143px;
-	top: 3623px;
-	overflow: visible;
-}
-#Instagram {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1005px;
-	top: 3623px;
-	overflow: visible;
-}
-#Pinterest {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 867px;
-	top: 3623px;
-	overflow: visible;
 }

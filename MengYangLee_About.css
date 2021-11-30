@@ -16,7 +16,7 @@
 #MengYangLee_About {
 	position: absolute;
 	width: 1920px;
-	height: 2140px;
+	height: 1946px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: MengYangLee_About;
@@ -241,9 +241,41 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.8px;
 }
+#Linkedin {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 1703px;
+	overflow: visible;
+}
+#Facebook {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 1703px;
+	overflow: visible;
+}
+#Instagram {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 1703px;
+	overflow: visible;
+}
+#Pinterest {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 1703px;
+	overflow: visible;
+}
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 1960px;
+	top: 1767px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -254,36 +286,4 @@
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
-}
-#Linkedin {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 729px;
-	top: 1803px;
-	overflow: visible;
-}
-#Facebook {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1143px;
-	top: 1803px;
-	overflow: visible;
-}
-#Instagram {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 1005px;
-	top: 1803px;
-	overflow: visible;
-}
-#Pinterest {
-	position: absolute;
-	width: 48px;
-	height: 48px;
-	left: 867px;
-	top: 1803px;
-	overflow: visible;
 }
