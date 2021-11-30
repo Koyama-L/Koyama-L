@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Unlock the future with the power of light;
-	--web-view-id: Unlock_the_future_with_the_power_of_light;
+	--web-view-name: Project_Unlock the future with the power of light;
+	--web-view-id: Project_Unlock_the_future_with_the_power_of_light;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Unlock_the_future_with_the_power_of_light;
+	--web-view-ids: Project_Unlock_the_future_with_the_power_of_light;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Unlock_the_future_with_the_power_of_light {
+#Project_Unlock_the_future_with_the_power_of_light {
 	position: absolute;
 	width: 1920px;
 	height: 9288px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Unlock the future with the power of light;
-	--web-view-id: Unlock_the_future_with_the_power_of_light;
+	--web-view-name: Project_Unlock the future with the power of light;
+	--web-view-id: Project_Unlock_the_future_with_the_power_of_light;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -85,7 +85,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: About.html;
+	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
 #Header_Works_t {
@@ -372,7 +372,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Be_your_own_wildlife_photographer.html;
+	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
 	cursor: pointer;
 }
 #Header_Works_bj {
@@ -399,7 +399,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Seeing_is_not_believeing.html;
+	--web-action-target: Project_Seeing_is_not_believeing.html;
 	cursor: pointer;
 }
 #Header_Works_bl {

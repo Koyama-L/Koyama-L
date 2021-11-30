@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Rethink, redo, redesign;
-	--web-view-id: Rethink_redo_redesign;
+	--web-view-name: Project_Try and error, and then try again;
+	--web-view-id: Project_Try_and_error_and_then_try_again;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Rethink_redo_redesign;
+	--web-view-ids: Project_Try_and_error_and_then_try_again;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Rethink_redo_redesign {
+#Project_Try_and_error_and_then_try_again {
 	position: absolute;
 	width: 1920px;
-	height: 16512px;
+	height: 14798px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Rethink, redo, redesign;
-	--web-view-id: Rethink_redo_redesign;
+	--web-view-name: Project_Try and error, and then try again;
+	--web-view-id: Project_Try_and_error_and_then_try_again;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -39,7 +39,7 @@
 	top: 364px;
 	position: absolute;
 	overflow: visible;
-	width: 316px;
+	width: 514px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -47,6 +47,25 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG_ {
+	left: 140px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
 #Header_Hover {
@@ -76,7 +95,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_s {
+#Header_Hover_t {
 	position: absolute;
 	width: 62px;
 	height: 29px;
@@ -85,10 +104,10 @@
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: About.html;
+	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
-#Header_Works_t {
+#Header_Works_u {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -103,7 +122,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_u {
+#Header_Hover_v {
 	position: absolute;
 	width: 87px;
 	height: 29px;
@@ -115,7 +134,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_v {
+#Header_Works_w {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -130,12 +149,12 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_w {
-	left: 140px;
-	top: 2174px;
+#Quote_KNOWING_x {
+	left: 139px;
+	top: 2178px;
 	position: absolute;
 	overflow: visible;
-	width: 653px;
+	width: 1140px;
 	white-space: nowrap;
 	line-height: 100px;
 	margin-top: -20px;
@@ -147,7 +166,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#OBJECTIVE__The_main_objective_ {
+#OBJECTIVE__This_project_is_abo {
 	left: 278px;
 	top: 2452px;
 	position: absolute;
@@ -164,7 +183,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#In_Visiable_Talk_2021_conferen {
+#Type_expriemnt_and_movie_poste {
 	left: 278px;
 	top: 560px;
 	position: absolute;
@@ -181,194 +200,49 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Rectangle_3 {
-	fill: rgba(224,60,120,1);
-}
-.Rectangle_3 {
+#Pro6_HeadingPhoto {
 	position: absolute;
-	overflow: visible;
 	width: 1920px;
 	height: 1191px;
 	left: 0px;
 	top: 774px;
-}
-#Pro4_HeadingPhoto {
-	position: absolute;
-	width: 1406px;
-	height: 1055px;
-	left: 257px;
-	top: 858px;
 	overflow: visible;
 }
-#n_24 {
-	position: absolute;
-	width: 1836px;
-	height: 918px;
-	left: 42px;
-	top: 6890px;
-	overflow: visible;
-}
-#Pro4_Poster {
+#Pro6_Frame {
 	position: absolute;
 	width: 1640px;
 	height: 1148px;
 	left: 140px;
-	top: 3013px;
+	top: 3009px;
 	overflow: visible;
 }
-#Pro4_Poster_ {
+#Pro6_Frame_ {
 	position: absolute;
-	width: 708px;
-	height: 1108px;
-	left: 1158px;
-	top: 4207px;
-	overflow: visible;
-}
-#Pro4_Poster_ba {
-	position: absolute;
-	width: 708px;
-	height: 1108px;
-	left: 606px;
-	top: 4207px;
-	overflow: visible;
-}
-#Pro4_Poster_bb {
-	position: absolute;
-	width: 708px;
-	height: 1108px;
-	left: 51px;
-	top: 4207px;
-	overflow: visible;
-}
-#Pro4_Frame {
-	position: absolute;
-	width: 1542px;
-	height: 1157px;
-	left: 189px;
-	top: 7893px;
-	overflow: visible;
-}
-#n_23 {
-	position: absolute;
-	width: 1836px;
-	height: 918px;
-	left: 42px;
-	top: 9916px;
-	overflow: visible;
-}
-#Pro4_Frame_ {
-	position: absolute;
-	width: 449px;
-	height: 728px;
-	left: 278px;
-	top: 11058px;
-	overflow: visible;
-}
-#Pro4_Frame_ba {
-	position: absolute;
-	width: 449px;
-	height: 728px;
-	left: 1193px;
-	top: 11058px;
-	overflow: visible;
-}
-#Pro4_Frame_bb {
-	position: absolute;
-	width: 1640px;
-	height: 1094px;
-	left: 140px;
-	top: 13143px;
-	overflow: visible;
-}
-#Rectangle_4 {
-	fill: rgba(222,222,222,1);
-}
-.Rectangle_4 {
-	position: absolute;
-	overflow: visible;
 	width: 1640px;
 	height: 1069px;
 	left: 140px;
-	top: 5521px;
-}
-#n_1 {
-	position: absolute;
-	width: 1522px;
-	height: 297px;
-	left: 199px;
-	top: 5683px;
+	top: 5259px;
 	overflow: visible;
 }
-#n_2 {
+#Pro6_Frame_ba {
 	position: absolute;
-	width: 1522px;
-	height: 299px;
-	left: 199px;
-	top: 6129px;
-	overflow: visible;
-}
-#Pro4_Photo {
-	position: absolute;
-	width: 1640px;
-	height: 1093px;
+	width: 812px;
+	height: 749px;
 	left: 140px;
-	top: 14461px;
+	top: 4464px;
 	overflow: visible;
 }
-#Rectangle_5 {
-	fill: rgba(230,230,230,1);
-}
-.Rectangle_5 {
+#Pro6_Frame_bb {
 	position: absolute;
-	overflow: visible;
-	width: 1640px;
-	height: 791px;
-	left: 140px;
-	top: 12010px;
-}
-#Pro4_Frame_bg {
-	position: absolute;
-	width: 298px;
-	height: 480px;
-	left: 175px;
-	top: 12165px;
-	overflow: visible;
-}
-#Pro4_Frame_bh {
-	position: absolute;
-	width: 297px;
-	height: 479px;
-	left: 494px;
-	top: 12165px;
-	overflow: visible;
-}
-#Pro4_Frame_bi {
-	position: absolute;
-	width: 299px;
-	height: 482px;
-	left: 811px;
-	top: 12165px;
-	overflow: visible;
-}
-#Pro4_Frame_bj {
-	position: absolute;
-	width: 297px;
-	height: 479px;
-	left: 1130px;
-	top: 12165px;
-	overflow: visible;
-}
-#Pro4_Frame_bk {
-	position: absolute;
-	width: 298px;
-	height: 480px;
-	left: 1448px;
-	top: 12165px;
+	width: 812px;
+	height: 749px;
+	left: 968px;
+	top: 4464px;
 	overflow: visible;
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 16332px;
+	top: 14616px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -380,12 +254,12 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#n_1_bm {
+#n_1 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
 	left: 727px;
-	top: 16205px;
+	top: 14489px;
 	overflow: visible;
 }
 #n_4 {
@@ -393,7 +267,7 @@
 	width: 48px;
 	height: 48px;
 	left: 1141px;
-	top: 16205px;
+	top: 14489px;
 	overflow: visible;
 }
 #n_3 {
@@ -401,30 +275,30 @@
 	width: 48px;
 	height: 48px;
 	left: 1003px;
-	top: 16205px;
+	top: 14489px;
 	overflow: visible;
 }
-#n_2_bp {
+#n_2 {
 	position: absolute;
 	width: 48px;
 	height: 48px;
 	left: 865px;
-	top: 16205px;
+	top: 14489px;
 	overflow: visible;
 }
-#Header_Hover_bq {
+#Header_Hover_ba {
 	position: absolute;
 	width: 152px;
 	height: 24px;
 	left: 140px;
-	top: 15895px;
+	top: 14179px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Seeing_is_not_believeing.html;
+	--web-action-target: Project_See_through_eyes_of_an_animal.html;
 	cursor: pointer;
 }
-#Header_Works_br {
+#Header_Works_bb {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -439,19 +313,19 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bs {
+#Header_Hover_bc {
 	position: absolute;
 	width: 95px;
 	height: 24px;
 	left: 1685px;
-	top: 15895px;
+	top: 14179px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: See_through_eyes_of_an_animal.html;
+	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#Header_Works_bt {
+#Header_Works_bd {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -466,9 +340,9 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Seeing_is_not_believeing {
+#See_through_eyes_of_an_animal {
 	left: 140px;
-	top: 15929px;
+	top: 14213px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -480,9 +354,9 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#See_through_eyes_of_an_animal {
+#Reflection_MA_portfolio {
 	left: 1382px;
-	top: 15929px;
+	top: 14213px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -494,33 +368,164 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Pro4_Frame_bw {
+#Pro6_Frame_bg {
 	position: absolute;
-	width: 536px;
-	height: 406px;
+	width: 409px;
+	height: 378px;
+	left: 289px;
+	top: 6629px;
+	overflow: visible;
+}
+#Pro6_Frame_bh {
+	position: absolute;
+	width: 410px;
+	height: 378px;
+	left: 755px;
+	top: 6629px;
+	overflow: visible;
+}
+#Pro6_Frame_bi {
+	position: absolute;
+	width: 410px;
+	height: 378px;
+	left: 1221px;
+	top: 6629px;
+	overflow: visible;
+}
+#Pro6_Frame_bj {
+	position: absolute;
+	width: 409px;
+	height: 377px;
+	left: 290px;
+	top: 7063px;
+	overflow: visible;
+}
+#Pro6_Frame_bk {
+	position: absolute;
+	width: 408px;
+	height: 377px;
+	left: 756px;
+	top: 7063px;
+	overflow: visible;
+}
+#Pro6_Frame_bl {
+	position: absolute;
+	width: 410px;
+	height: 378px;
+	left: 1221px;
+	top: 7062px;
+	overflow: visible;
+}
+#Pro6_Frame_bm {
+	position: absolute;
+	width: 409px;
+	height: 376px;
+	left: 290px;
+	top: 7497px;
+	overflow: visible;
+}
+#Pro6_Frame_bn {
+	position: absolute;
+	width: 410px;
+	height: 376px;
+	left: 756px;
+	top: 7497px;
+	overflow: visible;
+}
+#Pro6_Frame_bo {
+	position: absolute;
+	width: 410px;
+	height: 378px;
+	left: 1221px;
+	top: 7497px;
+	overflow: visible;
+}
+#Pro6_Frame_bp {
+	position: absolute;
+	width: 1640px;
+	height: 1069px;
 	left: 140px;
-	top: 9200px;
+	top: 8182px;
 	overflow: visible;
 }
-#Pro4_Frame_bx {
+#Pro6_Frame_bq {
+	position: absolute;
+	width: 708px;
+	height: 1108px;
+	left: 1160px;
+	top: 9442px;
+	overflow: visible;
+}
+#Pro6_Frame_br {
+	position: absolute;
+	width: 708px;
+	height: 1108px;
+	left: 608px;
+	top: 9442px;
+	overflow: visible;
+}
+#Pro6_Frame_bs {
+	position: absolute;
+	width: 708px;
+	height: 1108px;
+	left: 53px;
+	top: 9442px;
+	overflow: visible;
+}
+#Pro6_Frame_bt {
+	position: absolute;
+	width: 1640px;
+	height: 1236px;
+	left: 140px;
+	top: 10741px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(230,230,230,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 1106px;
+	left: 140px;
+	top: 12256px;
+}
+#Pro6_Frame_bv {
+	position: absolute;
+	width: 1368px;
+	height: 886px;
+	left: 276px;
+	top: 12366px;
+	overflow: visible;
+}
+#Pro6_Frame_bw {
 	position: absolute;
 	width: 536px;
-	height: 406px;
+	height: 348px;
+	left: 140px;
+	top: 13490px;
+	overflow: visible;
+}
+#Pro6_Frame_bx {
+	position: absolute;
+	width: 536px;
+	height: 348px;
 	left: 692px;
-	top: 9200px;
+	top: 13490px;
 	overflow: visible;
 }
-#Pro4_Frame_by {
+#Pro6_Frame_by {
 	position: absolute;
 	width: 536px;
-	height: 406px;
+	height: 348px;
 	left: 1244px;
-	top: 9200px;
+	top: 13490px;
 	overflow: visible;
 }
 #BACK_TO_TOP {
 	left: 801px;
-	top: 15895px;
+	top: 14179px;
 	position: absolute;
 	overflow: visible;
 	width: 320px;
@@ -575,7 +580,7 @@
 	top: 447px;
 	position: absolute;
 	overflow: visible;
-	width: 579px;
+	width: 739px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -583,24 +588,5 @@
 	font-weight: bold;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
-	letter-spacing: 0.5px;
-}
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Be_your_own_wildlife_photographer.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
