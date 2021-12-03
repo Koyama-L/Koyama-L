@@ -34,155 +34,7 @@
 	}
 
 }
-#Works_Hover {
-	position: absolute;
-	width: 65px;
-	height: 29px;
-	left: 1323px;
-	top: 71px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-}
-#Header_Works {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 66px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#About_Hover {
-	position: absolute;
-	width: 62px;
-	height: 29px;
-	left: 1582px;
-	top: 71px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengYangLee_About.html;
-	cursor: pointer;
-}
-#Header_Works_s {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 63px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Portfolio_Hover {
-	position: absolute;
-	width: 91px;
-	height: 29px;
-	left: 1437px;
-	top: 71px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Reflection_MA_Portfolio.html;
-	cursor: pointer;
-}
-#Header_Works_u {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 92px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Resume_Hover {
-	left: 1693px;
-	top: 70px;
-	position: absolute;
-	overflow: visible;
-	width: 91px;
-	height: 30px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Line_1 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 3px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_1 {
-	overflow: visible;
-	position: absolute;
-	width: 87px;
-	height: 3px;
-	left: 1693px;
-	top: 102px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Header_MENGYANG_ {
-	left: 140px;
-	top: 59px;
-	position: absolute;
-	overflow: visible;
-	width: 224px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 35px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#DOWNLOAD_MY_RSUM {
-	left: 761px;
-	top: 2555px;
-	position: absolute;
-	overflow: visible;
-	width: 399px;
-	height: 29px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.8px;
-}
-#Quote_KNOWING {
+#Quote_KNOWING_mv {
 	left: 278px;
 	top: 332px;
 	position: absolute;
@@ -197,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_ {
+#Quote_KNOWING_mw {
 	left: 416px;
 	top: 433px;
 	position: absolute;
@@ -212,56 +64,10 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Linkedin {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 811px;
-	top: 2679px;
-	overflow: visible;
-}
-#Facebook {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 1079px;
-	top: 2679px;
-	overflow: visible;
-}
-#Instagram {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 990px;
-	top: 2679px;
-	overflow: visible;
-}
-#Pinterest {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 900px;
-	top: 2679px;
-	overflow: visible;
-}
-#n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 2743px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Rectangle_5 {
+#Rectangle_5_mx {
 	fill: rgba(230,230,230,1);
 }
-.Rectangle_5 {
+.Rectangle_5_mx {
 	position: absolute;
 	overflow: visible;
 	width: 1640px;
@@ -277,4 +83,258 @@
 	left: 416px;
 	top: 861px;
 	overflow: visible;
+}
+#Rectangle_18_mz {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_18_mz {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 129px;
+	left: 1px;
+	top: 0px;
+}
+#Header_MENGYANG__m {
+	left: 140px;
+	top: 47px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_6_m {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_m {
+	overflow: visible;
+	position: absolute;
+	width: 58px;
+	height: 2px;
+	left: 1722px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Resume_Hover_m {
+	position: absolute;
+	width: 58px;
+	height: 19px;
+	left: 1722px;
+	top: 40px;
+	overflow: visible;
+}
+#Header_Works_m {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#About_Hover_m {
+	position: absolute;
+	width: 41px;
+	height: 19px;
+	left: 1601px;
+	top: 40px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: MengYangLee_About.html;
+	cursor: pointer;
+}
+#Header_Works_na {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Portfolio_Hover_m {
+	position: absolute;
+	width: 61px;
+	height: 19px;
+	left: 1443px;
+	top: 40px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Reflection_MA_Portfolio.html;
+	cursor: pointer;
+}
+#Header_Works_nb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Portfolio_Hover_na {
+	position: absolute;
+	width: 43px;
+	height: 19px;
+	left: 1320px;
+	top: 40px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Header_Works_nc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#n_2021_by_MengYang_Lee__All_Ri_na {
+	left: 140px;
+	top: 2743px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin_nb {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 2679px;
+	overflow: visible;
+}
+#Linkedin_nc {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Facebook_nd {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 2679px;
+	overflow: visible;
+}
+#Facebook_ne {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Instagram_nf {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 2679px;
+	overflow: visible;
+}
+#Instagram_ng {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Pinterest_nh {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 2679px;
+	overflow: visible;
+}
+#Pinterest_ni {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Header_Hover_nj {
+	position: absolute;
+	width: 299px;
+	height: 29px;
+	left: 792px;
+	top: 2526px;
+	overflow: visible;
+}
+#Header_Works_nk {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }
