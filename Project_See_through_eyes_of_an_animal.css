@@ -36,10 +36,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 462px;
+	width: 616px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -166,7 +166,7 @@
 }
 #Nikon_report_2020_redesign {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -180,14 +180,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#I001 {
-	position: absolute;
-	width: 1920px;
-	height: 1191px;
-	left: 0px;
-	top: 774px;
-	overflow: visible;
 }
 #I002 {
 	position: absolute;
@@ -351,7 +343,7 @@
 	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
 	cursor: pointer;
 }
-#Header_Works_bi {
+#Header_Works_bh {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -366,7 +358,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bj {
+#Header_Hover_bi {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -378,7 +370,7 @@
 	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
-#Header_Works_bk {
+#Header_Works_bj {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -386,21 +378,6 @@
 	width: 96px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#BACK_TO_TOP {
-	left: 801px;
-	top: 9377px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
 	font-family: Garamond Premier Pro;
 	font-style: normal;
 	font-weight: bold;
@@ -445,12 +422,12 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bo {
+#Quote_KNOWING_bm {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 667px;
+	width: 889px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -588,4 +565,12 @@
 	left: 140px;
 	top: 9467px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#I001 {
+	position: absolute;
+	width: 1920px;
+	height: 1195px;
+	left: 0px;
+	top: 770px;
+	overflow: visible;
 }

@@ -36,10 +36,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 700px;
+	width: 933px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -166,7 +166,7 @@
 }
 #Nikon_report_2020_redesign {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -180,14 +180,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#B001 {
-	position: absolute;
-	width: 1920px;
-	height: 1191px;
-	left: 0px;
-	top: 774px;
-	overflow: visible;
 }
 #B002 {
 	position: absolute;
@@ -285,7 +277,7 @@
 	--web-action-target: Project_Seeing_is_not_believeing.html;
 	cursor: pointer;
 }
-#Header_Works_ba {
+#Header_Works_ {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -300,7 +292,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_Hover_bb {
+#Header_Hover_ba {
 	position: absolute;
 	width: 95px;
 	height: 24px;
@@ -312,7 +304,7 @@
 	--web-action-target: Project_See_through_eyes_of_an_animal.html;
 	cursor: pointer;
 }
-#Header_Works_bc {
+#Header_Works_bb {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -344,21 +336,6 @@
 	left: 1015px;
 	top: 4555px;
 	overflow: visible;
-}
-#BACK_TO_TOP {
-	left: 801px;
-	top: 8399px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
 }
 #Works_Hover {
 	left: 1323px;
@@ -397,12 +374,12 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Quote_KNOWING_bi {
+#Quote_KNOWING_bg {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 934px;
+	width: 1245px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -540,4 +517,12 @@
 	left: 140px;
 	top: 8495px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#Entry_19677_DVDROM-LENS {
+	position: absolute;
+	width: 1938px;
+	height: 1193px;
+	left: -18px;
+	top: 765px;
+	overflow: visible;
 }

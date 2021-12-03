@@ -36,10 +36,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 322px;
+	width: 429px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -166,7 +166,7 @@
 }
 #Fact-checking_service_with_bro {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -180,14 +180,6 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#A001 {
-	position: absolute;
-	width: 1920px;
-	height: 1191px;
-	left: 0px;
-	top: 774px;
-	overflow: visible;
 }
 #A006 {
 	position: absolute;
@@ -534,21 +526,6 @@
 	top: 11233px;
 	overflow: visible;
 }
-#BACK_TO_TOP {
-	left: 801px;
-	top: 18092px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Works_Hover {
 	left: 1323px;
 	top: 71px;
@@ -588,10 +565,10 @@
 }
 #Quote_KNOWING_b {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 577px;
+	width: 769px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -610,7 +587,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -715,4 +692,12 @@
 	left: 140px;
 	top: 18185px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#A001 {
+	position: absolute;
+	width: 1920px;
+	height: 1173px;
+	left: 0px;
+	top: 796px;
+	overflow: visible;
 }

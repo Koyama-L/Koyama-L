@@ -36,16 +36,16 @@
 }
 #Quote_KNOWING {
 	left: 140px;
-	top: 298px;
+	top: 284px;
 	position: absolute;
 	overflow: visible;
-	width: 599px;
+	width: 798px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 60px;
+	font-size: 80px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
@@ -53,8 +53,8 @@
 	position: absolute;
 	width: 61px;
 	height: 63px;
-	left: 952px;
-	top: 614px;
+	left: 930px;
+	top: 669px;
 	overflow: visible;
 }
 #Text {

@@ -16,7 +16,7 @@
 #Resume {
 	position: absolute;
 	width: 1920px;
-	height: 2426px;
+	height: 2923px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Resume;
@@ -120,7 +120,7 @@
 	top: 70px;
 	position: absolute;
 	overflow: visible;
-	width: 94px;
+	width: 91px;
 	height: 30px;
 	text-align: left;
 	font-family: FranklinGothic URW;
@@ -167,17 +167,9 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#H001 {
-	position: absolute;
-	width: 1640px;
-	height: 1245px;
-	left: 140px;
-	top: 719px;
-	overflow: visible;
-}
 #DOWNLOAD_MY_RSUM {
 	left: 761px;
-	top: 2059px;
+	top: 2555px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -192,10 +184,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 332px;
 	position: absolute;
 	overflow: visible;
-	width: 280px;
+	width: 373px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -207,10 +199,10 @@
 }
 #Quote_KNOWING_ {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 433px;
+	width: 577px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -225,7 +217,7 @@
 	width: 31px;
 	height: 31px;
 	left: 811px;
-	top: 2183px;
+	top: 2679px;
 	overflow: visible;
 }
 #Facebook {
@@ -233,7 +225,7 @@
 	width: 31px;
 	height: 31px;
 	left: 1079px;
-	top: 2183px;
+	top: 2679px;
 	overflow: visible;
 }
 #Instagram {
@@ -241,7 +233,7 @@
 	width: 31px;
 	height: 31px;
 	left: 990px;
-	top: 2183px;
+	top: 2679px;
 	overflow: visible;
 }
 #Pinterest {
@@ -249,12 +241,12 @@
 	width: 31px;
 	height: 31px;
 	left: 900px;
-	top: 2183px;
+	top: 2679px;
 	overflow: visible;
 }
 #n_2021_by_MengYang_Lee__All_Ri {
 	left: 140px;
-	top: 2247px;
+	top: 2743px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -265,4 +257,24 @@
 	font-weight: normal;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+#Rectangle_5 {
+	fill: rgba(230,230,230,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 1703px;
+	left: 140px;
+	top: 731px;
+}
+#resume {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 1088px;
+	height: 1409px;
+	left: 416px;
+	top: 861px;
+	overflow: visible;
 }

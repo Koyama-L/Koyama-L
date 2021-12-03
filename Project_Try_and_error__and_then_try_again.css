@@ -35,11 +35,11 @@
 
 }
 #Quote_KNOWING {
-	left: 278px;
-	top: 364px;
+	left: 277px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 514px;
+	width: 684px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -185,7 +185,7 @@
 }
 #Type_expriemnt_and_movie_poste {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -463,21 +463,6 @@
 	top: 13490px;
 	overflow: visible;
 }
-#BACK_TO_TOP {
-	left: 801px;
-	top: 13922px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Works_Hover {
 	left: 1323px;
 	top: 71px;
@@ -515,12 +500,12 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bw {
+#Quote_KNOWING_bv {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 739px;
+	width: 984px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;

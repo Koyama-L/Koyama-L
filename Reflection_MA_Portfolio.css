@@ -36,10 +36,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 411px;
+	width: 547px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -185,7 +185,7 @@
 }
 #Portfolio_from_MA_Graphic_Desi {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -241,24 +241,9 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#BACK_TO_TOP {
-	left: 801px;
-	top: 3047px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #GO_TO_ISSUU_PORTFOLIO {
 	left: 278px;
-	top: 2939px;
+	top: 2768px;
 	position: absolute;
 	overflow: visible;
 	width: 399px;
@@ -273,10 +258,10 @@
 }
 #Quote_KNOWING_ {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 523px;
+	width: 697px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;

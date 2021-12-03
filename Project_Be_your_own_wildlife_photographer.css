@@ -36,10 +36,10 @@
 }
 #Quote_KNOWING {
 	left: 278px;
-	top: 364px;
+	top: 331px;
 	position: absolute;
 	overflow: visible;
-	width: 462px;
+	width: 616px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -166,7 +166,7 @@
 }
 #An_Online_platform_for_wildlif {
 	left: 278px;
-	top: 560px;
+	top: 535px;
 	position: absolute;
 	overflow: visible;
 	width: 537px;
@@ -303,6 +303,10 @@
 	left: 1685px;
 	top: 11847px;
 	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Project_Try_and_error__and_then_try_again.html;
+	cursor: pointer;
 }
 #Header_Works_be {
 	left: 0px;
@@ -343,21 +347,6 @@
 	top: 5379px;
 	overflow: visible;
 }
-#BACK_TO_TOP {
-	left: 801px;
-	top: 11847px;
-	position: absolute;
-	overflow: visible;
-	width: 320px;
-	height: 24px;
-	text-align: center;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Works_Hover {
 	left: 1323px;
 	top: 71px;
@@ -395,12 +384,12 @@
 	top: 102px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Quote_KNOWING_bl {
+#Quote_KNOWING_bk {
 	left: 416px;
-	top: 447px;
+	top: 433px;
 	position: absolute;
 	overflow: visible;
-	width: 905px;
+	width: 1206px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -443,7 +432,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Header_Hover_bo {
+#Header_Hover_bn {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -455,7 +444,7 @@
 	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
-#Header_Works_bp {
+#Header_Works_bo {
 	left: 0px;
 	top: 0px;
 	position: absolute;
