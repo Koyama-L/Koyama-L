@@ -34,7 +34,7 @@
 	}
 
 }
-#Quote_KNOWING_eu {
+#Quote_KNOWING_ew {
 	left: 278px;
 	top: 331px;
 	position: absolute;
@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_ev {
+#Quote_KNOWING_ex {
 	left: 274px;
 	top: 2178px;
 	position: absolute;
@@ -518,10 +518,10 @@
 	top: 796px;
 	overflow: visible;
 }
-#Rectangle_18_f {
+#Rectangle_18_ga {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_18_f {
+.Rectangle_18_ga {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -530,7 +530,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Portfolio_Hover_f {
+#Portfolio_Hover_gb {
 	position: absolute;
 	width: 61px;
 	height: 19px;
@@ -542,7 +542,7 @@
 	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#Header_Works_ga {
+#Header_Works_gc {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -557,7 +557,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#About_Hover_gb {
+#About_Hover_gd {
 	position: absolute;
 	width: 41px;
 	height: 19px;
@@ -569,7 +569,7 @@
 	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
-#Header_Works_gc {
+#Header_Works_ge {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -584,7 +584,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Resume_Hover_gd {
+#Resume_Hover_gf {
 	position: absolute;
 	width: 58px;
 	height: 19px;
@@ -596,7 +596,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_ge {
+#Header_Works_gg {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -611,7 +611,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__gf {
+#Header_MENGYANG__gh {
 	left: 140px;
 	top: 47px;
 	position: absolute;
@@ -630,7 +630,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works_Hover_gg {
+#Works_Hover_gi {
 	left: 1320px;
 	top: 40px;
 	position: absolute;
@@ -645,7 +645,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_6_gh {
+#Line_6_gj {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -654,7 +654,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6_gh {
+.Line_6_gj {
 	overflow: visible;
 	position: absolute;
 	width: 46px;
@@ -663,7 +663,7 @@
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_2021_by_MengYang_Lee__All_Ri_gi {
+#n_2021_by_MengYang_Lee__All_Ri_gk {
 	left: 140px;
 	top: 18326px;
 	position: absolute;
@@ -677,7 +677,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_gj {
+#Linkedin_gl {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -685,7 +685,7 @@
 	top: 18262px;
 	overflow: visible;
 }
-#Linkedin_gk {
+#Linkedin_gm {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -693,7 +693,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_gl {
+#Facebook_gn {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -701,7 +701,7 @@
 	top: 18262px;
 	overflow: visible;
 }
-#Facebook_gm {
+#Facebook_go {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -709,7 +709,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Instagram_gn {
+#Instagram_gp {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -717,7 +717,7 @@
 	top: 18262px;
 	overflow: visible;
 }
-#Instagram_go {
+#Instagram_gq {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -725,7 +725,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Pinterest_gp {
+#Pinterest_gr {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -733,7 +733,7 @@
 	top: 18262px;
 	overflow: visible;
 }
-#Pinterest_gq {
+#Pinterest_gs {
 	position: absolute;
 	width: 31px;
 	height: 31px;

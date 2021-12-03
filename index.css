@@ -39,7 +39,7 @@
 	top: 285px;
 	position: absolute;
 	overflow: visible;
-	width: 1086px;
+	width: 918px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Garamond Premier Pro;
@@ -292,10 +292,40 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_18 {
+#Quote_KNOWING_bf {
+	left: 416px;
+	top: 509px;
+	position: absolute;
+	overflow: visible;
+	width: 682px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Quote_KNOWING_bg {
+	left: 554px;
+	top: 397px;
+	position: absolute;
+	overflow: visible;
+	width: 798px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Rectangle_19 {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_18 {
+.Rectangle_19 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -343,7 +373,7 @@
 	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
-#Header_Works_bj {
+#Header_Works_bl {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -370,7 +400,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_bl {
+#Header_Works_bn {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -415,7 +445,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_6 {
+#Line_7 {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -424,7 +454,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6 {
+.Line_7 {
 	overflow: visible;
 	position: absolute;
 	width: 46px;

@@ -34,7 +34,7 @@
 	}
 
 }
-#Quote_KNOWING_br {
+#Quote_KNOWING_bt {
 	left: 278px;
 	top: 331px;
 	position: absolute;
@@ -49,7 +49,7 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.5px;
 }
-#Quote_KNOWING_bs {
+#Quote_KNOWING_bu {
 	left: 140px;
 	top: 2176px;
 	position: absolute;
@@ -227,7 +227,7 @@
 	--web-action-target: Project_Try_and_error__and_then_try_again.html;
 	cursor: pointer;
 }
-#Header_Works_ca {
+#Header_Works_cc {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -266,7 +266,7 @@
 	top: 5379px;
 	overflow: visible;
 }
-#Quote_KNOWING_ce {
+#Quote_KNOWING_cg {
 	left: 416px;
 	top: 433px;
 	position: absolute;
@@ -295,7 +295,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Header_Hover_cg {
+#Header_Hover_ci {
 	position: absolute;
 	width: 152px;
 	height: 24px;
@@ -307,7 +307,7 @@
 	--web-action-target: Project_Rethink__redo__redesign.html;
 	cursor: pointer;
 }
-#Header_Works_ch {
+#Header_Works_cj {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -372,10 +372,10 @@
 	top: 11940px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Rectangle_18_cl {
+#Rectangle_18 {
 	fill: rgba(255,255,255,1);
 }
-.Rectangle_18_cl {
+.Rectangle_18 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
@@ -384,7 +384,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Portfolio_Hover_cm {
+#Portfolio_Hover_co {
 	position: absolute;
 	width: 61px;
 	height: 19px;
@@ -396,7 +396,7 @@
 	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#Header_Works_cn {
+#Header_Works_cp {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -411,7 +411,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#About_Hover_co {
+#About_Hover_cq {
 	position: absolute;
 	width: 41px;
 	height: 19px;
@@ -423,7 +423,7 @@
 	--web-action-target: MengYangLee_About.html;
 	cursor: pointer;
 }
-#Header_Works_cp {
+#Header_Works_cr {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -438,7 +438,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Resume_Hover_cq {
+#Resume_Hover_cs {
 	position: absolute;
 	width: 58px;
 	height: 19px;
@@ -450,7 +450,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_cr {
+#Header_Works_ct {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -465,7 +465,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__cs {
+#Header_MENGYANG__cu {
 	left: 140px;
 	top: 47px;
 	position: absolute;
@@ -484,7 +484,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Works_Hover_ct {
+#Works_Hover_cv {
 	left: 1320px;
 	top: 40px;
 	position: absolute;
@@ -499,7 +499,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_6_cu {
+#Line_6 {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -508,7 +508,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6_cu {
+.Line_6 {
 	overflow: visible;
 	position: absolute;
 	width: 46px;
@@ -525,7 +525,7 @@
 	top: 12009px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri_cw {
+#n_2021_by_MengYang_Lee__All_Ri_cy {
 	left: 0px;
 	top: 64px;
 	position: absolute;
@@ -539,7 +539,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_cx {
+#Linkedin_cz {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -547,7 +547,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Linkedin_cy {
+#Linkedin_c {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -555,7 +555,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_cz {
+#Facebook_c {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -563,7 +563,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_c {
+#Facebook_da {
 	position: absolute;
 	width: 31px;
 	height: 31px;
