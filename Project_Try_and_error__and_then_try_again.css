@@ -435,10 +435,10 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1938px;
+	width: 1920px;
 	height: 129px;
 	left: 0px;
-	top: 0px;
+	top: -17px;
 }
 #Portfolio_Hover_kn {
 	position: absolute;
@@ -554,25 +554,6 @@
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Header_MENGYANG__kv {
-	left: 140px;
-	top: 47px;
-	position: absolute;
-	overflow: visible;
-	width: 208px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Group_2 {
 	position: absolute;
 	width: 1640px;
@@ -581,7 +562,7 @@
 	top: 14083px;
 	overflow: visible;
 }
-#n_2021_by_MengYang_Lee__All_Ri_kx {
+#n_2021_by_MengYang_Lee__All_Ri_kw {
 	left: 0px;
 	top: 64px;
 	position: absolute;
@@ -595,7 +576,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_ky {
+#Linkedin_kx {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -603,7 +584,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Linkedin_kz {
+#Linkedin_ky {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -611,7 +592,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_k {
+#Facebook_kz {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -619,7 +600,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_la {
+#Facebook_k {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -658,4 +639,23 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+#Header_MENGYANG__k {
+	left: 137px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }

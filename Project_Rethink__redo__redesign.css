@@ -452,7 +452,7 @@
 	width: 1938px;
 	height: 129px;
 	left: 0px;
-	top: 0px;
+	top: -17px;
 }
 #Portfolio_Hover_ec {
 	position: absolute;
@@ -535,9 +535,120 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__ei {
+#Works_Hover_ei {
+	left: 1320px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 19px;
+	text-align: left;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_6_ej {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6_ej {
+	overflow: visible;
+	position: absolute;
+	width: 46px;
+	height: 2px;
+	left: 1320px;
+	top: 64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2021_by_MengYang_Lee__All_Ri_ek {
 	left: 140px;
-	top: 47px;
+	top: 15863px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 180px;
+	text-align: center;
+	font-family: FranklinGothic URW;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Linkedin_el {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 811px;
+	top: 15799px;
+	overflow: visible;
+}
+#Linkedin_em {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Facebook_en {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 1079px;
+	top: 15799px;
+	overflow: visible;
+}
+#Facebook_eo {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Instagram_ep {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 990px;
+	top: 15799px;
+	overflow: visible;
+}
+#Instagram_eq {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Pinterest_er {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 900px;
+	top: 15799px;
+	overflow: visible;
+}
+#Pinterest_es {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Header_MENGYANG__et {
+	left: 137px;
+	top: 38px;
 	position: absolute;
 	overflow: visible;
 	width: 208px;
@@ -553,115 +664,4 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
-}
-#Works_Hover_ej {
-	left: 1320px;
-	top: 40px;
-	position: absolute;
-	overflow: visible;
-	width: 47px;
-	height: 19px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Line_6_ek {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 2px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_6_ek {
-	overflow: visible;
-	position: absolute;
-	width: 46px;
-	height: 2px;
-	left: 1320px;
-	top: 64px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#n_2021_by_MengYang_Lee__All_Ri_el {
-	left: 140px;
-	top: 15863px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
-}
-#Linkedin_em {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 811px;
-	top: 15799px;
-	overflow: visible;
-}
-#Linkedin_en {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Facebook_eo {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 1079px;
-	top: 15799px;
-	overflow: visible;
-}
-#Facebook_ep {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Instagram_eq {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 990px;
-	top: 15799px;
-	overflow: visible;
-}
-#Instagram_er {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Pinterest_es {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 900px;
-	top: 15799px;
-	overflow: visible;
-}
-#Pinterest_et {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
 }

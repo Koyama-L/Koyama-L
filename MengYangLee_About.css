@@ -96,31 +96,12 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1938px;
+	width: 1919px;
 	height: 129px;
 	left: 1px;
-	top: 0px;
+	top: -17px;
 }
-#Header_MENGYANG__ma {
-	left: 140px;
-	top: 47px;
-	position: absolute;
-	overflow: visible;
-	width: 208px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Line_6_mb {
+#Line_6_ma {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -129,7 +110,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6_mb {
+.Line_6_ma {
 	overflow: visible;
 	position: absolute;
 	width: 41px;
@@ -138,7 +119,7 @@
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Resume_Hover_mc {
+#Resume_Hover_mb {
 	position: absolute;
 	width: 58px;
 	height: 19px;
@@ -150,7 +131,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_md {
+#Header_Works_mc {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -165,7 +146,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#About_Hover_me {
+#About_Hover_md {
 	position: absolute;
 	width: 41px;
 	height: 19px;
@@ -173,7 +154,7 @@
 	top: 40px;
 	overflow: visible;
 }
-#Header_Works_mf {
+#Header_Works_me {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -188,7 +169,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Portfolio_Hover_mg {
+#Portfolio_Hover_mf {
 	position: absolute;
 	width: 61px;
 	height: 19px;
@@ -200,7 +181,7 @@
 	--web-action-target: Reflection_MA_Portfolio.html;
 	cursor: pointer;
 }
-#Header_Works_mh {
+#Header_Works_mg {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -215,7 +196,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Portfolio_Hover_mi {
+#Portfolio_Hover_mh {
 	position: absolute;
 	width: 43px;
 	height: 19px;
@@ -227,7 +208,7 @@
 	--web-action-target: index.html;
 	cursor: pointer;
 }
-#Header_Works_mj {
+#Header_Works_mi {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -242,7 +223,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#n_2021_by_MengYang_Lee__All_Ri_mk {
+#n_2021_by_MengYang_Lee__All_Ri_mj {
 	left: 140px;
 	top: 1766px;
 	position: absolute;
@@ -256,7 +237,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_ml {
+#Linkedin_mk {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -264,7 +245,7 @@
 	top: 1702px;
 	overflow: visible;
 }
-#Linkedin_mm {
+#Linkedin_ml {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -272,7 +253,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_mn {
+#Facebook_mm {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -280,7 +261,7 @@
 	top: 1702px;
 	overflow: visible;
 }
-#Facebook_mo {
+#Facebook_mn {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -288,7 +269,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Instagram_mp {
+#Instagram_mo {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -296,7 +277,7 @@
 	top: 1702px;
 	overflow: visible;
 }
-#Instagram_mq {
+#Instagram_mp {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -304,7 +285,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Pinterest_mr {
+#Pinterest_mq {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -312,7 +293,7 @@
 	top: 1702px;
 	overflow: visible;
 }
-#Pinterest_ms {
+#Pinterest_mr {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -320,7 +301,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Header_Hover_mt {
+#Header_Hover_ms {
 	position: absolute;
 	width: 178px;
 	height: 24px;
@@ -332,7 +313,7 @@
 	--web-action-target: Resume.html;
 	cursor: pointer;
 }
-#Header_Works_mu {
+#Header_Works_mt {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -344,6 +325,25 @@
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Header_MENGYANG__mu {
+	left: 137px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

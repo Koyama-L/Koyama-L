@@ -398,10 +398,10 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1938px;
+	width: 1920px;
 	height: 129px;
 	left: 0px;
-	top: 0px;
+	top: -17px;
 }
 #Portfolio_Hover_i {
 	position: absolute;
@@ -484,25 +484,6 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__i {
-	left: 140px;
-	top: 47px;
-	position: absolute;
-	overflow: visible;
-	width: 208px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
 #Works_Hover_i {
 	left: 1320px;
 	top: 40px;
@@ -536,7 +517,7 @@
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_2021_by_MengYang_Lee__All_Ri_ja {
+#n_2021_by_MengYang_Lee__All_Ri_i {
 	left: 140px;
 	top: 9597px;
 	position: absolute;
@@ -550,7 +531,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_jb {
+#Linkedin_ja {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -558,7 +539,7 @@
 	top: 9533px;
 	overflow: visible;
 }
-#Linkedin_jc {
+#Linkedin_jb {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -566,7 +547,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_jd {
+#Facebook_jc {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -574,7 +555,7 @@
 	top: 9533px;
 	overflow: visible;
 }
-#Facebook_je {
+#Facebook_jd {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -582,7 +563,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Instagram_jf {
+#Instagram_je {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -590,7 +571,7 @@
 	top: 9533px;
 	overflow: visible;
 }
-#Instagram_jg {
+#Instagram_jf {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -598,7 +579,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Pinterest_jh {
+#Pinterest_jg {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -606,11 +587,30 @@
 	top: 9533px;
 	overflow: visible;
 }
-#Pinterest_ji {
+#Pinterest_jh {
 	position: absolute;
 	width: 31px;
 	height: 31px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+#Header_MENGYANG__ji {
+	left: 137px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }

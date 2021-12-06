@@ -329,10 +329,10 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1938px;
+	width: 1920px;
 	height: 129px;
 	left: 0px;
-	top: 0px;
+	top: -17px;
 }
 #Portfolio_Hover {
 	position: absolute;
@@ -416,8 +416,8 @@
 	letter-spacing: 0.5px;
 }
 #Header_MENGYANG_ {
-	left: 140px;
-	top: 47px;
+	left: 137px;
+	top: 38px;
 	position: absolute;
 	overflow: visible;
 	width: 208px;

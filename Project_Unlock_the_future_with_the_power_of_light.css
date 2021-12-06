@@ -350,10 +350,10 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1938px;
+	width: 1920px;
 	height: 129px;
 	left: 0px;
-	top: 0px;
+	top: -17px;
 }
 #Portfolio_Hover_hl {
 	position: absolute;
@@ -436,26 +436,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Header_MENGYANG__hr {
-	left: 140px;
-	top: 47px;
-	position: absolute;
-	overflow: visible;
-	width: 208px;
-	white-space: nowrap;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: index.html;
-	cursor: pointer;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
-}
-#Works_Hover_hs {
+#Works_Hover_hr {
 	left: 1320px;
 	top: 40px;
 	position: absolute;
@@ -470,7 +451,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }
-#Line_6_ht {
+#Line_6_hs {
 	fill: transparent;
 	stroke: rgba(0,0,0,1);
 	stroke-width: 2px;
@@ -479,7 +460,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_6_ht {
+.Line_6_hs {
 	overflow: visible;
 	position: absolute;
 	width: 46px;
@@ -488,7 +469,7 @@
 	top: 64px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_2021_by_MengYang_Lee__All_Ri_hu {
+#n_2021_by_MengYang_Lee__All_Ri_ht {
 	left: 140px;
 	top: 8628px;
 	position: absolute;
@@ -502,7 +483,7 @@
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#Linkedin_hv {
+#Linkedin_hu {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -510,7 +491,7 @@
 	top: 8564px;
 	overflow: visible;
 }
-#Linkedin_hw {
+#Linkedin_hv {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -518,7 +499,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Facebook_hx {
+#Facebook_hw {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -526,7 +507,7 @@
 	top: 8564px;
 	overflow: visible;
 }
-#Facebook_hy {
+#Facebook_hx {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -534,7 +515,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Instagram_hz {
+#Instagram_hy {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -542,7 +523,7 @@
 	top: 8564px;
 	overflow: visible;
 }
-#Instagram_h {
+#Instagram_hz {
 	position: absolute;
 	width: 31px;
 	height: 31px;
@@ -565,4 +546,23 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+#Header_MENGYANG__h {
+	left: 137px;
+	top: 38px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Garamond Premier Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
 }
