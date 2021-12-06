@@ -15,7 +15,7 @@
 }
 #Resume {
 	position: absolute;
-	width: 1920px;
+	width: 1905px;
 	height: 2923px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -317,10 +317,10 @@
 }
 #Header_Hover_nl {
 	position: absolute;
-	width: 299px;
-	height: 29px;
-	left: 792px;
-	top: 2526px;
+	width: 219px;
+	height: 24px;
+	left: 1561px;
+	top: 2496px;
 	overflow: visible;
 }
 #Header_Works_nm {
@@ -328,13 +328,13 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 300px;
+	width: 220px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: FranklinGothic URW;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 24px;
+	font-size: 20px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

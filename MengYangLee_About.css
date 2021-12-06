@@ -15,7 +15,7 @@
 }
 #MengYangLee_About {
 	position: absolute;
-	width: 1920px;
+	width: 1905px;
 	height: 1946px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -322,8 +322,8 @@
 }
 #Header_Hover_mt {
 	position: absolute;
-	width: 240px;
-	height: 29px;
+	width: 178px;
+	height: 24px;
 	left: 968px;
 	top: 1514px;
 	overflow: visible;
@@ -337,13 +337,13 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 241px;
+	width: 179px;
 	white-space: nowrap;
 	text-align: right;
 	font-family: FranklinGothic URW;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 24px;
+	font-size: 20px;
 	color: rgba(0,0,0,1);
 	letter-spacing: 0.5px;
 }

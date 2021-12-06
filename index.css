@@ -15,7 +15,7 @@
 }
 #index {
 	position: absolute;
-	width: 1920px;
+	width: 1902px;
 	height: 4414px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -53,8 +53,8 @@
 	position: absolute;
 	width: 61px;
 	height: 63px;
-	left: 930px;
-	top: 756px;
+	left: 921px;
+	top: 658px;
 	overflow: visible;
 }
 #Text {
@@ -78,8 +78,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 140px;
-	top: 1611px;
+	left: 131px;
+	top: 1513px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -98,8 +98,8 @@
 	position: absolute;
 	width: 1640px;
 	height: 1082px;
-	left: 140px;
-	top: 2295px;
+	left: 131px;
+	top: 2197px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -118,8 +118,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 968px;
-	top: 3388px;
+	left: 959px;
+	top: 3290px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -138,8 +138,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 968px;
-	top: 1611px;
+	left: 959px;
+	top: 1513px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -158,8 +158,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 140px;
-	top: 3388px;
+	left: 131px;
+	top: 3290px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -178,8 +178,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 968px;
-	top: 927px;
+	left: 959px;
+	top: 829px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -198,8 +198,8 @@
 	position: absolute;
 	width: 812px;
 	height: 673px;
-	left: 140px;
-	top: 927px;
+	left: 131px;
+	top: 829px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
