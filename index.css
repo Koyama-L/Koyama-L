@@ -1,465 +1,569 @@
 .mediaViewInfo {
-	--web-view-name: index;
-	--web-view-id: index;
-	--web-scale-on-resize: true;
-	--web-enable-deep-linking: true;
+  --web-view-name: index;
+  --web-view-id: index;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: index;
+  --web-view-ids: index;
 }
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	border: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
 }
 #index {
-	position: absolute;
-	width: 1902px;
-	height: 4414px;
-	background-color: rgba(255,255,255,1);
-	overflow: hidden;
-	--web-view-name: index;
-	--web-view-id: index;
-	--web-scale-on-resize: true;
-	--web-enable-deep-linking: true;
+  position: absolute;
+  width: 1902px;
+  height: 4414px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: index;
+  --web-view-id: index;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
 }
 @keyframes fadein {
-
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 #Quote_KNOWING {
-	left: 278px;
-	top: 285px;
-	position: absolute;
-	overflow: visible;
-	width: 918px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 80px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 278px;
+  top: 285px;
+  position: absolute;
+  overflow: visible;
+  width: 918px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Arrow_Hover {
-	position: absolute;
-	width: 61px;
-	height: 63px;
-	left: 921px;
-	top: 658px;
-	overflow: visible;
+  position: absolute;
+  width: 61px;
+  height: 63px;
+  left: 921px;
+  top: 658px;
+  overflow: visible;
 }
 #Text {
-	transform: translate(0px, 0px) matrix(1,0,0,1,-1,1) rotate(90deg);
-	transform-origin: center;
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 64px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 60px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, -1, 1) rotate(90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 64px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #IndexGallery07 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 131px;
-	top: 1513px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_See_through_eyes_of_an_animal.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 131px;
+  top: 1513px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_See_through_eyes_of_an_animal.html;
+  cursor: pointer;
 }
 #heading03 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery06 {
-	position: absolute;
-	width: 1640px;
-	height: 1082px;
-	left: 131px;
-	top: 2197px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Reflection_MA_Portfolio.html;
-	cursor: pointer;
+  position: absolute;
+  width: 1640px;
+  height: 1082px;
+  left: 131px;
+  top: 2197px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Reflection_MA_Portfolio.html;
+  cursor: pointer;
 }
 #Pro6 {
-	position: absolute;
-	width: 1640px;
-	height: 1082px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 1640px;
+  height: 1082px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery05 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 959px;
-	top: 3290px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Try_and_error__and_then_try_again.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 959px;
+  top: 3290px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_Try_and_error__and_then_try_again.html;
+  cursor: pointer;
 }
 #Pro6_HeadingPhoto {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery04 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 959px;
-	top: 1513px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Rethink__redo__redesign.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 959px;
+  top: 1513px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_Rethink__redo__redesign.html;
+  cursor: pointer;
 }
 #n_2 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery03 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 131px;
-	top: 3290px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Be_your_own_wildlife_photographer.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 131px;
+  top: 3290px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_Be_your_own_wildlife_photographer.html;
+  cursor: pointer;
 }
 #Pro3_HeadingPhoto {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery02 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 959px;
-	top: 829px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 959px;
+  top: 829px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
+  cursor: pointer;
 }
 #Pro2_HeadingPhoto {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #IndexGallery01 {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 131px;
-	top: 829px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Project_Seeing_is_not_believeing.html;
-	cursor: pointer;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 131px;
+  top: 829px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Project_Seeing_is_not_believeing.html;
+  cursor: pointer;
 }
 #Landing_Photo {
-	position: absolute;
-	width: 812px;
-	height: 673px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 812px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #n_2021_by_MengYang_Lee__All_Ri {
-	left: 140px;
-	top: 4234px;
-	position: absolute;
-	overflow: visible;
-	width: 1641px;
-	height: 180px;
-	text-align: center;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
+  left: 140px;
+  top: 4234px;
+  position: absolute;
+  overflow: visible;
+  width: 1641px;
+  height: 180px;
+  text-align: center;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
 }
 #Linkedin {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 811px;
-	top: 4170px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 811px;
+  top: 4170px;
+  overflow: visible;
 }
 #Linkedin_ {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #Facebook {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 1079px;
-	top: 4170px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1079px;
+  top: 4170px;
+  overflow: visible;
 }
 #Facebook_ba {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #Instagram {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 990px;
-	top: 4170px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 990px;
+  top: 4170px;
+  overflow: visible;
 }
 #Instagram_bc {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #Pinterest {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 900px;
-	top: 4170px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 900px;
+  top: 4170px;
+  overflow: visible;
 }
 #Pinterest_be {
-	position: absolute;
-	width: 31px;
-	height: 31px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 #Quote_KNOWING_bf {
-	left: 416px;
-	top: 509px;
-	position: absolute;
-	overflow: visible;
-	width: 682px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 80px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 416px;
+  top: 509px;
+  position: absolute;
+  overflow: visible;
+  width: 682px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Quote_KNOWING_bg {
-	left: 554px;
-	top: 397px;
-	position: absolute;
-	overflow: visible;
-	width: 798px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 80px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 554px;
+  top: 397px;
+  position: absolute;
+  overflow: visible;
+  width: 798px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Rectangle_19 {
-	fill: rgba(255,255,255,1);
+  fill: rgba(255, 255, 255, 1);
 }
 .Rectangle_19 {
-	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
-	position: absolute;
-	overflow: visible;
-	width: 1920px;
-	height: 129px;
-	left: 0px;
-	top: -17px;
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 129px;
+  left: 0px;
+  top: -17px;
 }
 #Portfolio_Hover {
-	position: absolute;
-	width: 61px;
-	height: 19px;
-	left: 1443px;
-	top: 40px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Reflection_MA_Portfolio.html;
-	cursor: pointer;
+  position: absolute;
+  width: 61px;
+  height: 19px;
+  left: 1443px;
+  top: 40px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Reflection_MA_Portfolio.html;
+  cursor: pointer;
 }
 #Header_Works {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 62px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 62px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #About_Hover {
-	position: absolute;
-	width: 41px;
-	height: 19px;
-	left: 1601px;
-	top: 40px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: MengYangLee_About.html;
-	cursor: pointer;
+  position: absolute;
+  width: 41px;
+  height: 19px;
+  left: 1601px;
+  top: 40px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: MengYangLee_About.html;
+  cursor: pointer;
 }
 #Header_Works_bl {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 42px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 42px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Resume_Hover {
-	position: absolute;
-	width: 58px;
-	height: 19px;
-	left: 1722px;
-	top: 40px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Resume.html;
-	cursor: pointer;
+  position: absolute;
+  width: 58px;
+  height: 19px;
+  left: 1722px;
+  top: 40px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Resume.html;
+  cursor: pointer;
 }
 #Header_Works_bn {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 59px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Header_MENGYANG_ {
-	left: 137px;
-	top: 38px;
-	position: absolute;
-	overflow: visible;
-	width: 208px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Garamond Premier Pro;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 137px;
+  top: 38px;
+  position: absolute;
+  overflow: visible;
+  width: 208px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Works_Hover {
-	left: 1320px;
-	top: 40px;
-	position: absolute;
-	overflow: visible;
-	width: 47px;
-	height: 19px;
-	text-align: left;
-	font-family: FranklinGothic URW;
-	font-style: normal;
-	font-weight: lighter;
-	font-size: 16px;
-	color: rgba(0,0,0,1);
-	letter-spacing: 0.5px;
+  left: 1320px;
+  top: 40px;
+  position: absolute;
+  overflow: visible;
+  width: 47px;
+  height: 19px;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
 }
 #Line_7 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 2px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 2px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
 }
 .Line_7 {
-	overflow: visible;
-	position: absolute;
-	width: 46px;
-	height: 2px;
-	left: 1320px;
-	top: 64px;
-	transform: matrix(1,0,0,1,0,0);
+  overflow: visible;
+  position: absolute;
+  width: 46px;
+  height: 2px;
+  left: 1320px;
+  top: 64px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+}
+
+.container:hover img {
+  opacity: 0.3;
+  transform: scale(1.2, 1.2);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: transparent;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: rgba(0, 0, 0, 1);
+  font-size: 15px;
+  position: absolute;
+  width: 75%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: left;
+  letter-spacing: 1.3px;
+}
+
+.img {
+  transition: all 0.5s ease-out;
+  transform: scale(1, 1);
+  object-fit: fill;
+  overflow: hidden;
+}
+
+.headerw {
+  display: block;
+  text-align: left;
+  font-size: 30px;
+  font-family: "Garamond Premier Pro";
+}
+.paragraphw {
+  font-family: FranklinGothic URW;
+}
+
+.navhover:hover {
+  color: #999;
+}
+
+.down {
+  opacity: 1;
+  transition: all 1s ease;
+}
+.down:hover {
+  color: #999;
+  opacity: 0.4;
+}
+
+#Linkedin_ {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Linkedin_:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Facebook {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Facebook:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Instagram {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Instagram:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Pinterest {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Pinterest:hover {
+  transform: scale(1.5, 1.5);
 }
