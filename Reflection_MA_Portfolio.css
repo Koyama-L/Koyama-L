@@ -476,3 +476,22 @@
 #Pinterest_l:hover {
   transform: scale(1.5, 1.5);
 }
+
+#Header_Works_ld .previous {
+  display: inline-block;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_ld:hover .previous {
+  transform: translateX(-50%);
+  opacity: 0;
+}
+#Header_Works_ld .previous-1 {
+  display: inline-block;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_ld:hover .previous-1 {
+  transform: translateX(-50%);
+}

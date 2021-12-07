@@ -667,3 +667,79 @@
 .navhover:hover {
   color: #999;
 }
+
+#Linkedin_el {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Linkedin_el:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Facebook_en {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Facebook_en:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Instagram_ep {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Instagram_ep:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Pinterest_er {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Pinterest_er:hover {
+  transform: scale(1.5, 1.5);
+}
+
+/* PREVIOUS ICON */
+#Header_Works_d .previous {
+  display: inline-block;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_d:hover .previous {
+  transform: translateX(-50%);
+  opacity: 0;
+}
+#Header_Works_d .previous-1 {
+  display: inline-block;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_d:hover .previous-1 {
+  transform: translateX(-50%);
+}
+
+/* NEXT ICON */
+#Header_Works_ea .next {
+  display: inline-block;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_ea:hover .next {
+  transform: translateX(50%);
+  opacity: 0;
+}
+#Header_Works_ea .next-1 {
+  display: inline-block;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_ea:hover .next-1 {
+  transform: translateX(50%);
+}
