@@ -705,7 +705,7 @@
 }
 
 #Header_Works_jv:hover .previous {
-  transform: translateX(-50%);
+  transform: translateX(-15%);
   opacity: 0;
 }
 #Header_Works_jv .previous-1 {
@@ -714,7 +714,7 @@
 }
 
 #Header_Works_jv:hover .previous-1 {
-  transform: translateX(-50%);
+  transform: translateX(-15%);
 }
 
 /* NEXT ICON */
@@ -725,7 +725,7 @@
 }
 
 #Header_Works_jx:hover .next {
-  transform: translateX(50%);
+  transform: translateX(15%);
   opacity: 0;
 }
 #Header_Works_jx .next-1 {
@@ -734,5 +734,5 @@
 }
 
 #Header_Works_jx:hover .next-1 {
-  transform: translateX(50%);
+  transform: translateX(15%);
 }

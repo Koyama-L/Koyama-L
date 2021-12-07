@@ -484,7 +484,7 @@
 }
 
 #Header_Works_ld:hover .previous {
-  transform: translateX(-50%);
+  transform: translateX(-15%);
   opacity: 0;
 }
 #Header_Works_ld .previous-1 {
@@ -493,5 +493,5 @@
 }
 
 #Header_Works_ld:hover .previous-1 {
-  transform: translateX(-50%);
+  transform: translateX(-15%);
 }
