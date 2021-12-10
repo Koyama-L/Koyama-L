@@ -365,12 +365,12 @@
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #I001 {
-  position: absolute;
-  width: 1920px;
-  height: 1175px;
-  left: 5px;
-  top: 1584px;
-  overflow: visible;
+    position: absolute;
+    width: 1925px;
+    height: 1175px;
+    left: 0px;
+    top: 1584px;
+    overflow: visible;
 }
 #Rectangle_23 {
   fill: rgba(255, 255, 255, 1);
