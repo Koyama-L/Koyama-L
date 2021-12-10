@@ -16,7 +16,7 @@
 #Reflection_MA_Portfolio {
   position: absolute;
   width: 1902px;
-  height: 3460px;
+  height: 3952px;
   background-color: rgba(255, 255, 255, 1);
   overflow: hidden;
   --web-view-name: Reflection_MA_Portfolio;
@@ -32,12 +32,12 @@
     opacity: 1;
   }
 }
-#Quote_KNOWING_k {
-  left: 278px;
-  top: 331px;
+#Quote_KNOWING_lg {
+  left: 137px;
+  top: 213px;
   position: absolute;
   overflow: visible;
-  width: 547px;
+  width: 747px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -47,9 +47,9 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_la {
-  left: 140px;
-  top: 2178px;
+#Quote_KNOWING_lh {
+  left: 137px;
+  top: 634px;
   position: absolute;
   overflow: visible;
   width: 758px;
@@ -65,12 +65,12 @@
   letter-spacing: 0.5px;
 }
 #CONCEPT__Self-reflection_is_on {
-  left: 278px;
-  top: 2452px;
+  left: 274px;
+  top: 908px;
   position: absolute;
   overflow: visible;
-  width: 951px;
-  height: 511px;
+  width: 944px;
+  height: 205px;
   line-height: 35px;
   margin-top: -6.5px;
   text-align: left;
@@ -81,36 +81,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Portfolio_from_MA_Graphic_Desi {
-  left: 278px;
-  top: 535px;
-  position: absolute;
-  overflow: visible;
-  width: 537px;
-  height: 214px;
-  line-height: 35px;
-  margin-top: -5.5px;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
-}
-#Header_Hover_lc {
+#Header_Hover_lj {
   position: absolute;
   width: 152px;
   height: 24px;
-  left: 140px;
-  top: 3047px;
+  left: 137px;
+  top: 3543px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: Project_Try_and_error__and_then_try_again.html;
   cursor: pointer;
 }
-#Header_Works_ld {
+#Header_Works_lk {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -125,9 +108,9 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Try_and_error_and_then_try_aga_le {
-  left: 140px;
-  top: 3081px;
+#Try_and_error_and_then_try_aga_ll {
+  left: 137px;
+  top: 3577px;
   position: absolute;
   overflow: visible;
   width: 399px;
@@ -140,11 +123,11 @@
   color: rgba(0, 0, 0, 1);
 }
 #Go_to_portfolio {
-  left: 278px;
-  top: 2768px;
+  left: 871px;
+  top: 3359px;
   position: absolute;
   overflow: visible;
-  width: 399px;
+  width: 161px;
   height: 29px;
   text-align: left;
   font-family: FranklinGothic URW;
@@ -154,12 +137,12 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_lg {
-  left: 416px;
-  top: 433px;
+#Quote_KNOWING_ln {
+  left: 548px;
+  top: 363px;
   position: absolute;
   overflow: visible;
-  width: 697px;
+  width: 955px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -168,14 +151,6 @@
   font-size: 60px;
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
-}
-#F001 {
-  position: absolute;
-  width: 1920px;
-  height: 1208px;
-  left: 0px;
-  top: 772px;
-  overflow: visible;
 }
 #Line_4 {
   fill: transparent;
@@ -189,10 +164,10 @@
 .Line_4 {
   overflow: visible;
   position: absolute;
-  width: 1640px;
+  width: 1628px;
   height: 1px;
-  left: 140px;
-  top: 3018px;
+  left: 137px;
+  top: 3514px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #Line_5 {
@@ -207,70 +182,63 @@
 .Line_5 {
   overflow: visible;
   position: absolute;
-  width: 1640px;
+  width: 1628px;
   height: 1px;
-  left: 140px;
-  top: 3144px;
+  left: 137px;
+  top: 3640px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#Rectangle_18_lk {
+#F001 {
+  position: absolute;
+  width: 1920px;
+  height: 1208px;
+  left: 0px;
+  top: 1226px;
+  overflow: visible;
+}
+#Rectangle_20 {
   fill: rgba(255, 255, 255, 1);
 }
-.Rectangle_18_lk {
+.Rectangle_20 {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
   position: absolute;
   overflow: visible;
   width: 1919px;
-  height: 129px;
+  height: 112px;
   left: 0px;
-  top: -17px;
+  top: 0px;
 }
-#Works_Hover_ll {
-  left: 1443px;
-  top: 40px;
-  position: absolute;
-  overflow: visible;
-  width: 64px;
-  height: 19px;
-  text-align: left;
-  font-family: FranklinGothic URW;
-  font-style: normal;
-  font-weight: lighter;
-  font-size: 16px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
-}
-#Line_6_lm {
+#Line_8 {
   fill: transparent;
   stroke: rgba(0, 0, 0, 1);
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linejoin: miter;
   stroke-linecap: butt;
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_6_lm {
+.Line_8 {
   overflow: visible;
   position: absolute;
   width: 61px;
-  height: 2px;
-  left: 1443px;
-  top: 64px;
+  height: 1px;
+  left: 1437px;
+  top: 59px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#Resume_Hover_ln {
+#Resume_Hover_lt {
   position: absolute;
   width: 58px;
   height: 19px;
-  left: 1722px;
-  top: 40px;
+  left: 1707px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: Resume.html;
   cursor: pointer;
 }
-#Header_Works_lo {
+#Header_Works_lu {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -285,19 +253,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#About_Hover_lp {
+#About_Hover_lv {
   position: absolute;
   width: 41px;
   height: 19px;
-  left: 1601px;
-  top: 40px;
+  left: 1586px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: MengYangLee_About.html;
   cursor: pointer;
 }
-#Header_Works_lq {
+#Header_Works_lw {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -312,19 +280,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Portfolio_Hover_lr {
+#Portfolio_Hover_lx {
   position: absolute;
   width: 43px;
   height: 19px;
-  left: 1320px;
-  top: 40px;
+  left: 1305px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: index.html;
   cursor: pointer;
 }
-#Header_Works_ls {
+#Header_Works_ly {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -339,9 +307,43 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#n_2021_by_MengYang_Lee__All_Ri_lt {
-  left: 140px;
-  top: 3280px;
+#Works_Hover_lz {
+  left: 1437px;
+  top: 35px;
+  position: absolute;
+  overflow: visible;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#Header_MENGYANG__l {
+  left: 137px;
+  top: 31px;
+  position: absolute;
+  overflow: visible;
+  width: 278px;
+  white-space: nowrap;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: index.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#n_2021_by_MengYang_Lee__All_Ri_l {
+  left: 131px;
+  top: 3772px;
   position: absolute;
   overflow: visible;
   width: 1641px;
@@ -353,31 +355,15 @@
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
 }
-#Linkedin_lu {
+#Linkedin_l {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 811px;
-  top: 3216px;
+  left: 748px;
+  top: 3695px;
   overflow: visible;
 }
-#Linkedin_lv {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Facebook_lw {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 1079px;
-  top: 3216px;
-  overflow: visible;
-}
-#Facebook_lx {
+#Linkedin_ma {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -385,15 +371,31 @@
   top: 0px;
   overflow: visible;
 }
-#Instagram_ly {
+#Facebook_l {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 990px;
-  top: 3216px;
+  left: 1016px;
+  top: 3695px;
   overflow: visible;
 }
-#Instagram_lz {
+#Facebook_ma {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Instagram_l {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 927px;
+  top: 3695px;
+  overflow: visible;
+}
+#Instagram_ma {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -405,8 +407,8 @@
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 900px;
-  top: 3216px;
+  left: 837px;
+  top: 3695px;
   overflow: visible;
 }
 #Pinterest_ma {
@@ -417,54 +419,78 @@
   top: 0px;
   overflow: visible;
 }
-#Header_MENGYANG__l {
-  left: 137px;
-  top: 38px;
+#Behance_ma {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1106px;
+  top: 3695px;
+  overflow: visible;
+}
+#Behance_mb {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Behance_mb {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Behance_mb:hover {
+  transform: scale(1.5, 1.5);
+}
+
+#Rectangle_28 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_28 {
   position: absolute;
   overflow: visible;
-  width: 208px;
-  white-space: nowrap;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: index.html;
-  cursor: pointer;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
+  width: 1125px;
+  height: 786px;
+  left: 389px;
+  top: 2547px;
 }
 
 .navhover:hover {
   color: #999;
+  transition: all 1s ease;
 }
 
-#Linkedin_lu {
+#Linkedin_l {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Linkedin_lu:hover {
+#Linkedin_l:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Facebook_lw {
+#Facebook_l {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Facebook_lw:hover {
+#Facebook_l:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Instagram_ly {
+#Instagram_l {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Instagram_ly:hover {
+#Instagram_l:hover {
   transform: scale(1.5, 1.5);
 }
 
@@ -476,22 +502,42 @@
 #Pinterest_l:hover {
   transform: scale(1.5, 1.5);
 }
-
-#Header_Works_ld .previous {
+/* PREVIOUS ICON */
+#Header_Works_lk .previous {
   display: inline-block;
   opacity: 1;
   transition: all 0.5s ease;
 }
 
-#Header_Works_ld:hover .previous {
+#Header_Works_lk:hover .previous {
   transform: translateX(-15%);
   opacity: 0;
 }
-#Header_Works_ld .previous-1 {
+#Header_Works_lk .previous-1 {
   display: inline-block;
   transition: all 0.5s ease;
 }
 
-#Header_Works_ld:hover .previous-1 {
-  transform: translateX(-15%);
+#Header_Works_lk:hover .previous-1 {
+  transform: translateX(-20%);
+}
+
+/* NEXT ICON */
+#Header_Works_he .next {
+  display: inline-block;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_he:hover .next {
+  transform: translateX(15%);
+  opacity: 0;
+}
+#Header_Works_he .next-1 {
+  display: inline-block;
+  transition: all 0.5s ease;
+}
+
+#Header_Works_he:hover .next-1 {
+  transform: translateX(15%);
 }

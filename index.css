@@ -33,26 +33,25 @@
   }
 }
 #Quote_KNOWING {
-  left: 278px;
-  top: 285px;
+  left: 137px;
+  top: 213px;
   position: absolute;
   overflow: visible;
-  width: 918px;
+  width: 1261px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
   font-style: normal;
-  font-weight: bold;
-  font-size: 80px;
+  font-weight: normal;
+  font-size: 120px;
   color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
 #Arrow_Hover {
   position: absolute;
   width: 61px;
-  height: 63px;
-  left: 921px;
-  top: 658px;
+  height: 72px;
+  left: 919px;
+  top: 708px;
   overflow: visible;
 }
 #Text {
@@ -62,12 +61,12 @@
   top: 0px;
   position: absolute;
   overflow: visible;
-  width: 64px;
+  width: 74px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
   font-style: normal;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 60px;
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
@@ -291,34 +290,32 @@
   overflow: visible;
 }
 #Quote_KNOWING_bf {
-  left: 416px;
-  top: 509px;
+  left: 279px;
+  top: 514px;
   position: absolute;
   overflow: visible;
-  width: 682px;
+  width: 938px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
   font-style: normal;
-  font-weight: bold;
-  font-size: 80px;
+  font-weight: normal;
+  font-size: 120px;
   color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
 #Quote_KNOWING_bg {
-  left: 554px;
-  top: 397px;
+  left: 548px;
+  top: 363px;
   position: absolute;
   overflow: visible;
-  width: 798px;
+  width: 1079px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
   font-style: normal;
-  font-weight: bold;
-  font-size: 80px;
+  font-weight: normal;
+  font-size: 120px;
   color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
 #Rectangle_19 {
   fill: rgba(255, 255, 255, 1);
@@ -328,16 +325,16 @@
   position: absolute;
   overflow: visible;
   width: 1920px;
-  height: 129px;
+  height: 112px;
   left: 0px;
-  top: -17px;
+  top: 0px;
 }
 #Portfolio_Hover {
   position: absolute;
   width: 61px;
   height: 19px;
-  left: 1443px;
-  top: 40px;
+  left: 1437px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
@@ -363,8 +360,8 @@
   position: absolute;
   width: 41px;
   height: 19px;
-  left: 1601px;
-  top: 40px;
+  left: 1586px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
@@ -390,8 +387,8 @@
   position: absolute;
   width: 58px;
   height: 19px;
-  left: 1722px;
-  top: 40px;
+  left: 1707px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
@@ -415,22 +412,22 @@
 }
 #Header_MENGYANG_ {
   left: 137px;
-  top: 38px;
+  top: 31px;
   position: absolute;
   overflow: visible;
-  width: 208px;
+  width: 278px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
   font-style: normal;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 32px;
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
 #Works_Hover {
-  left: 1320px;
-  top: 40px;
+  left: 1305px;
+  top: 35px;
   position: absolute;
   overflow: visible;
   width: 47px;
@@ -446,7 +443,7 @@
 #Line_7 {
   fill: transparent;
   stroke: rgba(0, 0, 0, 1);
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linejoin: miter;
   stroke-linecap: butt;
   stroke-miterlimit: 4;
@@ -456,9 +453,9 @@
   overflow: visible;
   position: absolute;
   width: 46px;
-  height: 2px;
-  left: 1320px;
-  top: 64px;
+  height: 1px;
+  left: 1305px;
+  top: 59px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 
@@ -521,6 +518,7 @@
 
 .navhover:hover {
   color: #999;
+  transition: all 1s ease;
 }
 
 .down {

@@ -16,7 +16,7 @@
 #MengYangLee_About {
   position: absolute;
   width: 1902px;
-  height: 1946px;
+  height: 2432px;
   background-color: rgba(255, 255, 255, 1);
   overflow: hidden;
   --web-view-name: MengYangLee_About;
@@ -32,12 +32,12 @@
     opacity: 1;
   }
 }
-#Quote_KNOWING_l {
-  left: 278px;
-  top: 331px;
+#Quote_KNOWING_mf {
+  left: 137px;
+  top: 213px;
   position: absolute;
   overflow: visible;
-  width: 441px;
+  width: 595px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -47,12 +47,12 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_ma {
-  left: 416px;
-  top: 433px;
+#Quote_KNOWING_mg {
+  left: 548px;
+  top: 363px;
   position: absolute;
   overflow: visible;
-  width: 692px;
+  width: 951px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -64,15 +64,15 @@
 }
 #G001 {
   position: absolute;
-  width: 536px;
-  height: 536px;
-  left: 278px;
-  top: 770px;
+  width: 669px;
+  height: 669px;
+  left: 137px;
+  top: 633px;
   overflow: visible;
 }
 #ABOUT_ME__Hello_my_name_is_Men {
-  left: 968px;
-  top: 774px;
+  left: 959px;
+  top: 633px;
   position: absolute;
   overflow: visible;
   width: 675px;
@@ -87,49 +87,49 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.8px;
 }
-#Rectangle_18_l {
+#Rectangle_18 {
   fill: rgba(255, 255, 255, 1);
 }
-.Rectangle_18_l {
+.Rectangle_18 {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
   position: absolute;
   overflow: visible;
-  width: 1919px;
-  height: 129px;
-  left: 1px;
-  top: -17px;
+  width: 1920px;
+  height: 112px;
+  left: 0px;
+  top: 0px;
 }
-#Line_6_ma {
+#Line_6 {
   fill: transparent;
   stroke: rgba(0, 0, 0, 1);
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linejoin: miter;
   stroke-linecap: butt;
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_6_ma {
+.Line_6 {
   overflow: visible;
   position: absolute;
   width: 41px;
-  height: 2px;
-  left: 1601px;
-  top: 64px;
+  height: 1px;
+  left: 1586px;
+  top: 59px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#Resume_Hover_mb {
+#Resume_Hover_ml {
   position: absolute;
   width: 58px;
   height: 19px;
-  left: 1722px;
-  top: 40px;
+  left: 1707px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: Resume.html;
   cursor: pointer;
 }
-#Header_Works_mc {
+#Header_Works_mm {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -144,15 +144,15 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#About_Hover_md {
+#About_Hover_mn {
   position: absolute;
   width: 41px;
   height: 19px;
-  left: 1601px;
-  top: 40px;
+  left: 1586px;
+  top: 35px;
   overflow: visible;
 }
-#Header_Works_me {
+#Header_Works_mo {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -167,46 +167,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Portfolio_Hover_mf {
-  position: absolute;
-  width: 61px;
-  height: 19px;
-  left: 1443px;
-  top: 40px;
-  overflow: visible;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: Reflection_MA_Portfolio.html;
-  cursor: pointer;
-}
-#Header_Works_mg {
-  left: 0px;
-  top: 0px;
-  position: absolute;
-  overflow: visible;
-  width: 62px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: FranklinGothic URW;
-  font-style: normal;
-  font-weight: lighter;
-  font-size: 16px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
-}
-#Portfolio_Hover_mh {
+#Portfolio_Hover_mp {
   position: absolute;
   width: 43px;
   height: 19px;
-  left: 1320px;
-  top: 40px;
+  left: 1305px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: index.html;
   cursor: pointer;
 }
-#Header_Works_mi {
+#Header_Works_mq {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -221,9 +194,55 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#n_2021_by_MengYang_Lee__All_Ri_mj {
-  left: 140px;
-  top: 1766px;
+#Portfolio_Hover_mr {
+  position: absolute;
+  width: 61px;
+  height: 19px;
+  left: 1437px;
+  top: 35px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Reflection_MA_Portfolio.html;
+  cursor: pointer;
+}
+#Header_Works_ms {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 62px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#Header_MENGYANG__mt {
+  left: 137px;
+  top: 31px;
+  position: absolute;
+  overflow: visible;
+  width: 278px;
+  white-space: nowrap;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: index.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#n_2021_by_MengYang_Lee__All_Ri_mu {
+  left: 131px;
+  top: 2252px;
   position: absolute;
   overflow: visible;
   width: 1641px;
@@ -235,31 +254,15 @@
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
 }
-#Linkedin_mk {
+#Linkedin_mv {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 811px;
-  top: 1702px;
+  left: 748px;
+  top: 2175px;
   overflow: visible;
 }
-#Linkedin_ml {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Facebook_mm {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 1079px;
-  top: 1702px;
-  overflow: visible;
-}
-#Facebook_mn {
+#Linkedin_mw {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -267,31 +270,15 @@
   top: 0px;
   overflow: visible;
 }
-#Instagram_mo {
+#Facebook_mx {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 990px;
-  top: 1702px;
+  left: 1016px;
+  top: 2175px;
   overflow: visible;
 }
-#Instagram_mp {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Pinterest_mq {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 900px;
-  top: 1702px;
-  overflow: visible;
-}
-#Pinterest_mr {
+#Facebook_my {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -299,89 +286,124 @@
   top: 0px;
   overflow: visible;
 }
-#Header_Hover_ms {
+#Instagram_mz {
   position: absolute;
-  width: 178px;
-  height: 24px;
-  left: 968px;
-  top: 1514px;
+  width: 31px;
+  height: 31px;
+  left: 927px;
+  top: 2175px;
   overflow: visible;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: Resume.html;
-  cursor: pointer;
 }
-#Header_Works_mt {
+#Instagram_m {
+  position: absolute;
+  width: 31px;
+  height: 31px;
   left: 0px;
   top: 0px;
+  overflow: visible;
+}
+#Pinterest_m {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 837px;
+  top: 2175px;
+  overflow: visible;
+}
+#Pinterest_na {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Behance_m {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1106px;
+  top: 2175px;
+  overflow: visible;
+}
+#Behance_na {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Look_at_my_introduction_video {
+  left: 959px;
+  top: 1344px;
   position: absolute;
   overflow: visible;
-  width: 179px;
-  white-space: nowrap;
-  text-align: right;
+  width: 275px;
+  height: 29px;
+  text-align: left;
   font-family: FranklinGothic URW;
   font-style: normal;
-  font-weight: lighter;
+  font-weight: normal;
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
-#Header_MENGYANG__mu {
-  left: 137px;
-  top: 38px;
+#Rectangle_27 {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_27 {
   position: absolute;
   overflow: visible;
-  width: 208px;
-  white-space: nowrap;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: index.html;
-  cursor: pointer;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
+  width: 669px;
+  height: 495px;
+  left: 137px;
+  top: 1462px;
 }
 
 .navhover:hover {
   color: #999;
+  transition: all 1s ease;
 }
 
-#Linkedin_mk {
+#Linkedin_mv {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Linkedin_mk:hover {
+#Linkedin_mv:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Facebook_mm {
+#Facebook_mx {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Facebook_mm:hover {
+#Facebook_mx:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Instagram_mo {
+#Instagram_mz {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Instagram_mo:hover {
+#Instagram_mz:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Pinterest_mq {
+#Pinterest_m {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Pinterest_mq:hover {
+#Behance_na:hover {
   transform: scale(1.5, 1.5);
+  transition: all 1s ease;
 }

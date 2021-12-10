@@ -32,12 +32,12 @@
     opacity: 1;
   }
 }
-#Quote_KNOWING_h {
-  left: 278px;
-  top: 331px;
+#Quote_KNOWING_ib {
+  left: 137px;
+  top: 213px;
   position: absolute;
   overflow: visible;
-  width: 616px;
+  width: 850px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -47,9 +47,9 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_ia {
-  left: 140px;
-  top: 2178px;
+#Quote_KNOWING_ic {
+  left: 145px;
+  top: 634px;
   position: absolute;
   overflow: visible;
   width: 965px;
@@ -65,11 +65,11 @@
   letter-spacing: 0.5px;
 }
 #OBJECTIVE__The_objective_of_th {
-  left: 278px;
-  top: 2452px;
+  left: 283px;
+  top: 908px;
   position: absolute;
   overflow: visible;
-  width: 951px;
+  width: 935px;
   height: 511px;
   line-height: 35px;
   margin-top: -6.5px;
@@ -81,54 +81,37 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Nikon_report_2020_redesign_h {
-  left: 278px;
-  top: 535px;
-  position: absolute;
-  overflow: visible;
-  width: 537px;
-  height: 214px;
-  line-height: 35px;
-  margin-top: -5.5px;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
-}
 #I002 {
   position: absolute;
-  width: 1640px;
-  height: 1148px;
+  width: 1625px;
+  height: 1138px;
   left: 140px;
-  top: 3009px;
+  top: 3014px;
   overflow: visible;
 }
-#Rectangle_10_ia {
+#Rectangle_10 {
   fill: rgba(222, 222, 222, 1);
 }
-.Rectangle_10_ia {
+.Rectangle_10 {
   position: absolute;
   overflow: visible;
-  width: 1640px;
+  width: 1625px;
   height: 1069px;
   left: 140px;
-  top: 5259px;
+  top: 5230px;
 }
 #I005 {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.302));
   position: absolute;
-  width: 1488px;
-  height: 596px;
-  left: 216px;
-  top: 5496px;
+  width: 1473px;
+  height: 590px;
+  left: 215px;
+  top: 5470px;
   overflow: visible;
 }
 #I003 {
   position: absolute;
-  width: 812px;
+  width: 803px;
   height: 749px;
   left: 140px;
   top: 4464px;
@@ -136,9 +119,9 @@
 }
 #I004 {
   position: absolute;
-  width: 812px;
+  width: 806px;
   height: 749px;
-  left: 968px;
+  left: 959px;
   top: 4464px;
   overflow: visible;
 }
@@ -147,21 +130,21 @@
   position: absolute;
   width: 1488px;
   height: 596px;
-  left: 216px;
-  top: 7528px;
+  left: 207px;
+  top: 7486px;
   overflow: visible;
 }
 #I007 {
   position: absolute;
-  width: 812px;
+  width: 806px;
   height: 749px;
-  left: 968px;
+  left: 959px;
   top: 6641px;
   overflow: visible;
 }
 #I006 {
   position: absolute;
-  width: 812px;
+  width: 803px;
   height: 749px;
   left: 140px;
   top: 6641px;
@@ -172,8 +155,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 140px;
-  top: 8517px;
+  left: 139px;
+  top: 8501px;
   overflow: visible;
 }
 #I010 {
@@ -181,8 +164,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 692px;
-  top: 8517px;
+  left: 684px;
+  top: 8501px;
   overflow: visible;
 }
 #I011 {
@@ -190,8 +173,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 1244px;
-  top: 8517px;
+  left: 1228px;
+  top: 8501px;
   overflow: visible;
 }
 #I012 {
@@ -199,8 +182,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 140px;
-  top: 8797px;
+  left: 139px;
+  top: 8781px;
   overflow: visible;
 }
 #I013 {
@@ -208,8 +191,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 692px;
-  top: 8797px;
+  left: 684px;
+  top: 8781px;
   overflow: visible;
 }
 #I014 {
@@ -217,8 +200,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 1244px;
-  top: 8797px;
+  left: 1228px;
+  top: 8781px;
   overflow: visible;
 }
 #I015 {
@@ -226,8 +209,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 140px;
-  top: 9077px;
+  left: 139px;
+  top: 9061px;
   overflow: visible;
 }
 #I016 {
@@ -235,8 +218,8 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 692px;
-  top: 9077px;
+  left: 684px;
+  top: 9061px;
   overflow: visible;
 }
 #I017 {
@@ -244,11 +227,11 @@
   position: absolute;
   width: 536px;
   height: 214px;
-  left: 1244px;
-  top: 9077px;
+  left: 1228px;
+  top: 9061px;
   overflow: visible;
 }
-#Header_Hover_iq {
+#Header_Hover_iv {
   position: absolute;
   width: 152px;
   height: 24px;
@@ -260,7 +243,7 @@
   --web-action-target: Project_Unlock_the_future_with_the_power_of_light.html;
   cursor: pointer;
 }
-#Header_Works_ir {
+#Header_Works_iw {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -275,11 +258,11 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Header_Hover_is {
+#Header_Hover_ix {
   position: absolute;
   width: 95px;
   height: 24px;
-  left: 1685px;
+  left: 1670px;
   top: 9377px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
@@ -287,7 +270,7 @@
   --web-action-target: Project_Rethink__redo__redesign.html;
   cursor: pointer;
 }
-#Header_Works_it {
+#Header_Works_iy {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -302,12 +285,12 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_iu {
-  left: 416px;
-  top: 433px;
+#Quote_KNOWING_iz {
+  left: 548px;
+  top: 363px;
   position: absolute;
   overflow: visible;
-  width: 889px;
+  width: 1211px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -317,7 +300,7 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Unlock_the_future_with_the_poe_iv {
+#Unlock_the_future_with_the_poe_i {
   left: 140px;
   top: 9411px;
   position: absolute;
@@ -332,7 +315,7 @@
   color: rgba(0, 0, 0, 1);
 }
 #Rethink_redo_redesign {
-  left: 1382px;
+  left: 1367px;
   top: 9411px;
   position: absolute;
   overflow: visible;
@@ -345,7 +328,7 @@
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
 }
-#Line_2_ix {
+#Line_2_i {
   fill: transparent;
   stroke: rgba(112, 112, 112, 1);
   stroke-width: 1px;
@@ -354,16 +337,16 @@
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_2_ix {
+.Line_2_i {
   overflow: visible;
   position: absolute;
-  width: 1640px;
+  width: 1628px;
   height: 1px;
-  left: 140px;
+  left: 137px;
   top: 9341px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#Line_3_iy {
+#Line_3_i {
   fill: transparent;
   stroke: rgba(112, 112, 112, 1);
   stroke-width: 1px;
@@ -372,75 +355,48 @@
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_3_iy {
+.Line_3_i {
   overflow: visible;
   position: absolute;
-  width: 1640px;
+  width: 1628px;
   height: 1px;
-  left: 140px;
+  left: 137px;
   top: 9467px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
 #I001 {
   position: absolute;
   width: 1920px;
-  height: 1195px;
-  left: 0px;
-  top: 770px;
+  height: 1175px;
+  left: 5px;
+  top: 1584px;
   overflow: visible;
 }
-#Rectangle_18_i {
+#Rectangle_23 {
   fill: rgba(255, 255, 255, 1);
 }
-.Rectangle_18_i {
+.Rectangle_23 {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
   position: absolute;
   overflow: visible;
   width: 1920px;
-  height: 129px;
-  left: 0px;
-  top: -17px;
-}
-#Portfolio_Hover_i {
-  position: absolute;
-  width: 61px;
-  height: 19px;
-  left: 1443px;
-  top: 40px;
-  overflow: visible;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: Reflection_MA_Portfolio.html;
-  cursor: pointer;
-}
-#Header_Works_i {
+  height: 112px;
   left: 0px;
   top: 0px;
-  position: absolute;
-  overflow: visible;
-  width: 62px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: FranklinGothic URW;
-  font-style: normal;
-  font-weight: lighter;
-  font-size: 16px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
 #About_Hover_i {
   position: absolute;
   width: 41px;
   height: 19px;
-  left: 1601px;
-  top: 40px;
+  left: 1586px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: MengYangLee_About.html;
   cursor: pointer;
 }
-#Header_Works_ja {
+#Header_Works_i {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -459,15 +415,15 @@
   position: absolute;
   width: 58px;
   height: 19px;
-  left: 1722px;
-  top: 40px;
+  left: 1707px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: Resume.html;
   cursor: pointer;
 }
-#Header_Works_jb {
+#Header_Works_ja {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -482,9 +438,9 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Works_Hover_i {
-  left: 1320px;
-  top: 40px;
+#Works_Hover_ja {
+  left: 1305px;
+  top: 35px;
   position: absolute;
   overflow: visible;
   width: 47px;
@@ -497,27 +453,73 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Line_6_i {
+#Line_11 {
   fill: transparent;
   stroke: rgba(0, 0, 0, 1);
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linejoin: miter;
   stroke-linecap: butt;
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_6_i {
+.Line_11 {
   overflow: visible;
   position: absolute;
   width: 46px;
-  height: 2px;
-  left: 1320px;
-  top: 64px;
+  height: 1px;
+  left: 1305px;
+  top: 59px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#n_2021_by_MengYang_Lee__All_Ri_i {
-  left: 140px;
-  top: 9597px;
+#Portfolio_Hover_jc {
+  position: absolute;
+  width: 61px;
+  height: 19px;
+  left: 1437px;
+  top: 35px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Reflection_MA_Portfolio.html;
+  cursor: pointer;
+}
+#Header_Works_jd {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 62px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#Header_MENGYANG__je {
+  left: 137px;
+  top: 31px;
+  position: absolute;
+  overflow: visible;
+  width: 278px;
+  white-space: nowrap;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: index.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#n_2021_by_MengYang_Lee__All_Ri_jf {
+  left: 131px;
+  top: 9600px;
   position: absolute;
   overflow: visible;
   width: 1641px;
@@ -529,31 +531,15 @@
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
 }
-#Linkedin_ja {
+#Linkedin_jg {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 811px;
-  top: 9533px;
+  left: 748px;
+  top: 9523px;
   overflow: visible;
 }
-#Linkedin_jb {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Facebook_jc {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 1079px;
-  top: 9533px;
-  overflow: visible;
-}
-#Facebook_jd {
+#Linkedin_jh {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -561,31 +547,15 @@
   top: 0px;
   overflow: visible;
 }
-#Instagram_je {
+#Facebook_ji {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 990px;
-  top: 9533px;
+  left: 1016px;
+  top: 9523px;
   overflow: visible;
 }
-#Instagram_jf {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Pinterest_jg {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 900px;
-  top: 9533px;
-  overflow: visible;
-}
-#Pinterest_jh {
+#Facebook_jj {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -593,102 +563,139 @@
   top: 0px;
   overflow: visible;
 }
-#Header_MENGYANG__ji {
-  left: 137px;
-  top: 38px;
+#Instagram_jk {
   position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 927px;
+  top: 9523px;
   overflow: visible;
-  width: 208px;
-  white-space: nowrap;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: index.html;
-  cursor: pointer;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
+}
+#Instagram_jl {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Pinterest_jm {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 837px;
+  top: 9523px;
+  overflow: visible;
+}
+#Pinterest_jn {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Behance_jo {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1106px;
+  top: 9523px;
+  overflow: visible;
+}
+#Behance_jp {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
 }
 
 .navhover:hover {
   color: #999;
+  transition: all 1s ease;
 }
-
-#Linkedin_ja {
+#Behance_jp {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Linkedin_ja:hover {
+#Behance_jp:hover {
+  transform: scale(1.5, 1.5);
+}
+#Linkedin_jg {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Linkedin_jg:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Facebook_jc {
+#Facebook_ji {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Facebook_jc:hover {
+#Facebook_ji:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Instagram_je {
+#Instagram_jk {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Instagram_je:hover {
+#Instagram_jk:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Pinterest_jg {
+#Pinterest_jm {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Pinterest_jg:hover {
+#Pinterest_jm:hover {
   transform: scale(1.5, 1.5);
 }
 
 /* PREVIOUS ICON */
-#Header_Works_ir .previous {
+#Header_Works_iw .previous {
   display: inline-block;
   opacity: 1;
   transition: all 0.5s ease;
 }
 
-#Header_Works_ir:hover .previous {
+#Header_Works_iw:hover .previous {
   transform: translateX(-15%);
   opacity: 0;
 }
-#Header_Works_ir .previous-1 {
+#Header_Works_iw .previous-1 {
   display: inline-block;
   transition: all 0.5s ease;
 }
 
-#Header_Works_ir:hover .previous-1 {
-  transform: translateX(-15%);
+#Header_Works_iw:hover .previous-1 {
+  transform: translateX(-20%);
 }
 
 /* NEXT ICON */
-#Header_Works_it .next {
+#Header_Works_iy .next {
   display: inline-block;
   opacity: 1;
   transition: all 0.5s ease;
 }
 
-#Header_Works_it:hover .next {
-  transform: translateX(15%);
+#Header_Works_iy:hover .next {
+  transform: translateX(30%);
   opacity: 0;
 }
-#Header_Works_it .next-1 {
+#Header_Works_iy .next-1 {
   display: inline-block;
   transition: all 0.5s ease;
 }
 
-#Header_Works_it:hover .next-1 {
-  transform: translateX(15%);
+#Header_Works_iy:hover .next-1 {
+  transform: translateX(30%);
 }

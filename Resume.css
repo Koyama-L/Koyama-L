@@ -32,12 +32,12 @@
     opacity: 1;
   }
 }
-#Quote_KNOWING_mx {
-  left: 278px;
-  top: 332px;
+#Quote_KNOWING_m {
+  left: 137px;
+  top: 213px;
   position: absolute;
   overflow: visible;
-  width: 373px;
+  width: 517px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -47,12 +47,12 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Quote_KNOWING_my {
-  left: 416px;
-  top: 433px;
+#Quote_KNOWING_na {
+  left: 548px;
+  top: 363px;
   position: absolute;
   overflow: visible;
-  width: 577px;
+  width: 780px;
   white-space: nowrap;
   text-align: left;
   font-family: Garamond Premier Pro;
@@ -62,65 +62,65 @@
   color: rgba(255, 255, 255, 1);
   letter-spacing: 0.5px;
 }
-#Rectangle_5_mz {
+#Rectangle_5_nb {
   fill: rgba(230, 230, 230, 1);
 }
-.Rectangle_5_mz {
+.Rectangle_5_nb {
   position: absolute;
   overflow: visible;
-  width: 1640px;
+  width: 1628px;
   height: 1703px;
-  left: 140px;
-  top: 731px;
+  left: 137px;
+  top: 632px;
 }
 #resume {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.2));
   position: absolute;
   width: 1088px;
   height: 1409px;
-  left: 416px;
-  top: 861px;
+  left: 407px;
+  top: 757px;
   overflow: visible;
 }
-#Rectangle_18_m {
+#Rectangle_18_nd {
   fill: rgba(255, 255, 255, 1);
 }
-.Rectangle_18_m {
+.Rectangle_18_nd {
   filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
   position: absolute;
   overflow: visible;
   width: 1919px;
-  height: 129px;
+  height: 112px;
   left: 0px;
-  top: -17px;
+  top: 0px;
 }
-#Line_6_m {
+#Line_6_ne {
   fill: transparent;
   stroke: rgba(0, 0, 0, 1);
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linejoin: miter;
   stroke-linecap: butt;
   stroke-miterlimit: 4;
   shape-rendering: auto;
 }
-.Line_6_m {
+.Line_6_ne {
   overflow: visible;
   position: absolute;
   width: 58px;
-  height: 2px;
-  left: 1722px;
-  top: 64px;
+  height: 1px;
+  left: 1707px;
+  top: 59px;
   transform: matrix(1, 0, 0, 1, 0, 0);
 }
-#Resume_Hover_m {
+#Resume_Hover_nf {
   position: absolute;
   width: 58px;
   height: 19px;
-  left: 1722px;
-  top: 40px;
+  left: 1707px;
+  top: 35px;
   overflow: visible;
 }
-#Header_Works_m {
+#Header_Works_ng {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -135,19 +135,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#About_Hover_m {
+#About_Hover_nh {
   position: absolute;
   width: 41px;
   height: 19px;
-  left: 1601px;
-  top: 40px;
+  left: 1586px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: MengYangLee_About.html;
   cursor: pointer;
 }
-#Header_Works_na {
+#Header_Works_ni {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -162,19 +162,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Portfolio_Hover_m {
+#Portfolio_Hover_nj {
   position: absolute;
   width: 61px;
   height: 19px;
-  left: 1443px;
-  top: 40px;
+  left: 1437px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: Reflection_MA_Portfolio.html;
   cursor: pointer;
 }
-#Header_Works_nb {
+#Header_Works_nk {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -189,19 +189,19 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#Portfolio_Hover_na {
+#Portfolio_Hover_nl {
   position: absolute;
   width: 43px;
   height: 19px;
-  left: 1320px;
-  top: 40px;
+  left: 1305px;
+  top: 35px;
   overflow: visible;
   --web-animation: fadein 0.3s ease-out;
   --web-action-type: page;
   --web-action-target: index.html;
   cursor: pointer;
 }
-#Header_Works_nc {
+#Header_Works_nm {
   left: 0px;
   top: 0px;
   position: absolute;
@@ -216,8 +216,41 @@
   color: rgba(0, 0, 0, 1);
   letter-spacing: 0.5px;
 }
-#n_2021_by_MengYang_Lee__All_Ri_nb {
-  left: 140px;
+#Header_MENGYANG__nn {
+  left: 137px;
+  top: 31px;
+  position: absolute;
+  overflow: visible;
+  width: 278px;
+  white-space: nowrap;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: index.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Garamond Premier Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 0.5px;
+}
+#Download_my_rsum {
+  left: 860px;
+  top: 2395px;
+  position: absolute;
+  overflow: visible;
+  width: 183px;
+  height: 29px;
+  text-align: left;
+  font-family: FranklinGothic URW;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+}
+#n_2021_by_MengYang_Lee__All_Ri_np {
+  left: 131px;
   top: 2743px;
   position: absolute;
   overflow: visible;
@@ -230,31 +263,15 @@
   font-size: 20px;
   color: rgba(0, 0, 0, 1);
 }
-#Linkedin_nc {
+#Linkedin_nq {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 811px;
-  top: 2679px;
+  left: 748px;
+  top: 2666px;
   overflow: visible;
 }
-#Linkedin_nd {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Facebook_ne {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 1079px;
-  top: 2679px;
-  overflow: visible;
-}
-#Facebook_nf {
+#Linkedin_nr {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -262,31 +279,15 @@
   top: 0px;
   overflow: visible;
 }
-#Instagram_ng {
+#Facebook_ns {
   position: absolute;
   width: 31px;
   height: 31px;
-  left: 990px;
-  top: 2679px;
+  left: 1016px;
+  top: 2666px;
   overflow: visible;
 }
-#Instagram_nh {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-#Pinterest_ni {
-  position: absolute;
-  width: 31px;
-  height: 31px;
-  left: 900px;
-  top: 2679px;
-  overflow: visible;
-}
-#Pinterest_nj {
+#Facebook_nt {
   position: absolute;
   width: 31px;
   height: 31px;
@@ -294,85 +295,100 @@
   top: 0px;
   overflow: visible;
 }
-#Header_Hover_nk {
+#Instagram_nu {
   position: absolute;
-  width: 219px;
-  height: 24px;
-  left: 1561px;
-  top: 2496px;
+  width: 31px;
+  height: 31px;
+  left: 927px;
+  top: 2666px;
   overflow: visible;
 }
-#Header_Works_nl {
+#Instagram_nv {
+  position: absolute;
+  width: 31px;
+  height: 31px;
   left: 0px;
   top: 0px;
-  position: absolute;
   overflow: visible;
-  width: 220px;
-  white-space: nowrap;
-  text-align: left;
-  font-family: FranklinGothic URW;
-  font-style: normal;
-  font-weight: lighter;
-  font-size: 20px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
 }
-#Header_MENGYANG__nm {
-  left: 137px;
-  top: 38px;
+#Pinterest_nw {
   position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 837px;
+  top: 2666px;
   overflow: visible;
-  width: 208px;
-  white-space: nowrap;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: index.html;
-  cursor: pointer;
-  text-align: left;
-  font-family: Garamond Premier Pro;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 24px;
-  color: rgba(0, 0, 0, 1);
-  letter-spacing: 0.5px;
+}
+#Pinterest_nx {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Behance_ny {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 1106px;
+  top: 2666px;
+  overflow: visible;
+}
+#Behance_nz {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Behance_ny {
+  transform: scale(1, 1);
+  transition: all 1s ease;
+}
+
+#Behance_ny:hover {
+  transform: scale(1.5, 1.5);
 }
 
 .navhover:hover {
   color: #999;
+	transition: all 1s ease;
 }
 
-#Linkedin_nc {
+#Linkedin_nq {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Linkedin_nc:hover {
+#Linkedin_nq:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Facebook_ne {
+#Facebook_ns {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Facebook_ne:hover {
+#Facebook_ns:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Instagram_ng {
+#Instagram_nu {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Instagram_ng:hover {
+#Instagram_nu:hover {
   transform: scale(1.5, 1.5);
 }
 
-#Pinterest_ni {
+#Pinterest_nw {
   transform: scale(1, 1);
   transition: all 1s ease;
 }
 
-#Pinterest_ni:hover {
+#Pinterest_nw:hover {
   transform: scale(1.5, 1.5);
 }
